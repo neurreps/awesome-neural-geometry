@@ -56,9 +56,9 @@ This is a collection of resources related with geometry of representations in th
 
 * **Interpreting neural computations by examining intrinsic and embedding dimensionality of neural activity.** *Mehrdad Jazayeri, Srdjan Ostojic* 2021 [paper](https://arxiv.org/abs/2107.04084) 
 
-* **The Geometry of Abstraction in the Hippocampus and Prefrontal Cortex.** *Silvia Bernardi, Marcus K.Benna, Matti aRigotti, Jérôme Munuera, Stefano Fusi, Daniel Salzman* 2020 [paper](https://www.sciencedirect.com/science/article/pii/S0092867420312289) 
+* **The Geometry of Abstraction in the Hippocampus and Prefrontal Cortex.** *Silvia Bernardi, Marcus K.Benna, Matti Rigotti, Jérôme Munuera, Stefano Fusi, Daniel Salzman* 2020 [paper](https://www.sciencedirect.com/science/article/pii/S0092867420312289) 
 
-* **Parsimony, Exhaustivity and Balanced Detection in Neocortex.** *Alberto Romagnoni ,Jérôme Ribot ,Daniel Bennequin ,Jonathan Touboul* 2015 [paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004623) 
+* **Parsimony, Exhaustivity and Balanced Detection in Neocortex.** *Alberto Romagnoni, Jérôme Ribot, Daniel Bennequin, Jonathan Touboul* 2015 [paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004623) 
 
 
 
