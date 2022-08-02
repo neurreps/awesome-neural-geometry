@@ -2,7 +2,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)](https://github.com/neurreps/reading-list/pulls) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/neurreps/reading-list?color=yellow)  ![Forks](https://img.shields.io/github/forks/neurreps/reading-list?color=blue&label=Fork)
 
-This is a collection of resources related with geometry of representations in the brain, deep networks and beyond, originated from mutual interactions on the slack channel of the NeurIPS 2022 Workshop on Symmetry and Geometry in Neural Represenations ([NeurReps](https://www.neurreps.org)😉)
+This is a collection of resources related with geometry of representations in the brain, deep networks and beyond, originated from mutual interactions on the slack channel of the [NeurIPS 2022 Workshop on Symmetry and Geometry in Neural Represenations (NeurReps😉)](https://www.neurreps.org)
 
 
 ## Contents
