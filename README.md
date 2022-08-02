@@ -4,6 +4,8 @@
 
 This is a collection of resources related with geometry of representations in the brain, deep networks and beyond, originated from mutual interactions on the slack channel of the [NeurIPS 2022 Workshop on Symmetry and Geometry in Neural Represenations (NeurReps😉)](https://www.neurreps.org)
 
+![](https://lh4.googleusercontent.com/vODs2cK98sKA9SVu_K2s-y8RFVmAXR8xEi4yGb6JBGBH73oFnpnhQSgb3C2qt2jFLLys2NY86l6lrPsFx2RpvV-Oqkqdf_TknI0ujQYyTeU2vCbaTgztq6xD-rhp4TJxGg=w1280)
+
 
 ## Contents
 
