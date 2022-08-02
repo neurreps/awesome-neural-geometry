@@ -11,7 +11,7 @@ This is a collection of resources related with geometry of representations in th
 
 - [Survey papers](#surveypapers)
 - [Papers](#papers)
-  - [Historical drawbacks](#historicaldrawbacks)   
+  - [Historical throwbacks](#historicalthrowwbacks)   
   - [Geometry of representations in the brain](#grb)
   - [Geometry of representations in deep nets](#grdn)
 - [Code](#code)
@@ -26,9 +26,9 @@ This is a collection of resources related with geometry of representations in th
 
 ## Papers
 
-<a name="historicaldrawbacks" />
+<a name="historicalthrowbacks" />
 
-### Historical drawbacks 
+### Historical Throwbacks 
 
 * **How we know universals.** *Walter Pitts & Warren S. McCulloch* 1947 [paper](https://link.springer.com/content/pdf/10.1007/BF02478291.pdf) 
 
