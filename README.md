@@ -7,9 +7,6 @@ This is a collection of papers related to the geometry of representations in the
 ![](https://lh4.googleusercontent.com/vODs2cK98sKA9SVu_K2s-y8RFVmAXR8xEi4yGb6JBGBH73oFnpnhQSgb3C2qt2jFLLys2NY86l6lrPsFx2RpvV-Oqkqdf_TknI0ujQYyTeU2vCbaTgztq6xD-rhp4TJxGg=w1280)
 
 
-<!--  --> #Format (copy me)
-<!-- * [**Paper title** (year)  <br /> *Authors*](URL) -->
-
 
 ## Contents
 
