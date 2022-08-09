@@ -15,8 +15,8 @@ A curated collection of resources and research related to the geometry of repres
   - [Differential Geometry + Lie Groups](#diffgeo)
   - [Geometric Statistics](#geomstats)
   - [Geometric Deep Learning](#gdl)
-- Software Libraries
-- Research Papers
+- [Software Libraries](#software)
+- [Research Papers](#research)
   - [Perspectives](#perspectives)
   - [Neuroscience](#neuro) 
     - [Vision](#vision)
@@ -77,6 +77,7 @@ A curated collection of resources and research related to the geometry of repres
 
 <br /><br />
 
+<a name="software" />
 
 ## Software Libraries
 
@@ -88,6 +89,7 @@ A curated collection of resources and research related to the geometry of repres
 
 <br /><br />
 
+<a name="research" />
 
 ## Research Papers
 
