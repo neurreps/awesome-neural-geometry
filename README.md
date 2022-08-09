@@ -32,7 +32,7 @@ A curated collection of resources and research related to the geometry of repres
 
 <a name="resources" />
 
-## Educational Resources
+# Educational Resources
 
 <br />
 
@@ -79,10 +79,10 @@ A curated collection of resources and research related to the geometry of repres
 
 <a name="software" />
 
-## Software Libraries
+# Software Libraries
 
 
-* [Geomstats](https://geomstats.github.io/)
+* [**Geomstats**](https://geomstats.github.io/)
 * [**Giotto TDA**](https://giotto-ai.github.io/gtda-docs/0.5.1/library.html)
 
 
@@ -91,7 +91,7 @@ A curated collection of resources and research related to the geometry of repres
 
 <a name="research" />
 
-## Research Papers
+# Research Papers
 
 
 <a name="perspectives" />
