@@ -34,8 +34,6 @@ A curated collection of resources and research related to the geometry of repres
 
 # Educational Resources
 
-<br />
-
 
 <a name="diffgeo" />
 
