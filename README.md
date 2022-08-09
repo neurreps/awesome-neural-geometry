@@ -13,7 +13,6 @@ A curated collection of resources and research related to the geometry of repres
 
 - [**Educational Resources**](#resources)
   - [Differential Geometry + Lie Groups](#diffgeo)
-  - [Geometric Statistics](#geomstats)
   - [Geometric Deep Learning](#gdl)
 - [**Software Libraries**](#software)
 - [**Research Papers**](#research)
@@ -45,12 +44,6 @@ A curated collection of resources and research related to the geometry of repres
 
 #### Courses, Lectures, and Videos
 * [**Differential Geometry for Computer Science** <br /> *Justin Solomon*](https://youtu.be/S_bUBfdffRU)
-
-<br />
-
-<a name="geomstats" />
-
-### Geometric Statistics
 
 #### Notebooks and Blogposts
 * [**Introduction to Differential Geometry and Machine Learning** <br /> *Geomstats Jupyter notebooks*](https://github.com/geomstats/geomstats/tree/master/notebooks)
