@@ -47,6 +47,10 @@ A curated collection of resources and research related to the geometry of repres
 
 #### Notebooks and Blogposts
 * [**Introduction to Differential Geometry and Machine Learning** <br /> *Geomstats Jupyter notebooks*](https://github.com/geomstats/geomstats/tree/master/notebooks)
+* [**Differential Geometry for Machine Learning** <br /> *Roger Grosse*](https://metacademy.org/roadmaps/rgrosse/dgml)
+
+
+
 
 <br />
 
@@ -64,6 +68,9 @@ A curated collection of resources and research related to the geometry of repres
 #### Courses, Lectures, and Videos
 
 * [**An Introduction to Group Equivariant Deep Learning** (2022) <br /> *UvA*](https://uvadl2c.github.io/)
+
+#### Notebooks and Blogposts
+* [**What does 2022 hold for Geometric & Graph ML?** <br /> *Michael Bronstein*](https://towardsdatascience.com/predictions-and-hopes-for-geometric-graph-ml-in-2022-aa3b8b79f5cc)
 
 
 <br /><br />
