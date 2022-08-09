@@ -11,12 +11,12 @@ A curated collection of resources and research related to the geometry of repres
 ## Contents
 
 
-- [Educational Resources](#resources)
+- [**Educational Resources**](#resources)
   - [Differential Geometry + Lie Groups](#diffgeo)
   - [Geometric Statistics](#geomstats)
   - [Geometric Deep Learning](#gdl)
-- [Software Libraries](#software)
-- [Research Papers](#research)
+- [**Software Libraries**](#software)
+- [**Research Papers**](#research)
   - [Perspectives](#perspectives)
   - [Neuroscience](#neuro) 
     - [Vision](#vision)
