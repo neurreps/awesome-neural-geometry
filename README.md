@@ -2,7 +2,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)](https://github.com/neurreps/reading-list/pulls) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/neurreps/reading-list?color=yellow)  ![Forks](https://img.shields.io/github/forks/neurreps/reading-list?color=blue&label=Fork)
 
-A curated collection of papers related to the geometry of representations in the brain, deep networks, and beyond, collaboratively generated on the [Symmetry and Geometry in Neural Representations](https://www.neurreps.org) [Slack Workspace](http://www.google.com/url?q=http%3A%2F%2Fneurreps.slack.com&sa=D&sntz=1&usg=AOvVaw2f5FLzxM-5cj4szVIPU_EH).
+A curated collection of resources and research related to the geometry of representations in the brain, deep networks, and beyond, collaboratively generated on the [Symmetry and Geometry in Neural Representations](https://www.neurreps.org) [Slack Workspace](http://www.google.com/url?q=http%3A%2F%2Fneurreps.slack.com&sa=D&sntz=1&usg=AOvVaw2f5FLzxM-5cj4szVIPU_EH).
 
 ![](https://lh4.googleusercontent.com/vODs2cK98sKA9SVu_K2s-y8RFVmAXR8xEi4yGb6JBGBH73oFnpnhQSgb3C2qt2jFLLys2NY86l6lrPsFx2RpvV-Oqkqdf_TknI0ujQYyTeU2vCbaTgztq6xD-rhp4TJxGg=w1280)
 
@@ -10,35 +10,103 @@ A curated collection of papers related to the geometry of representations in the
 
 ## Contents
 
-- [Perspectives](#perspectives)
-- [Neuroscience](#neuro) 
-  - [Vision](#vision)
-  - [Spatial Navigation](#navigation)
-  - [Abstract Representations](#abstract)
-  - [Methods](#methods)
-- [Geometric Deep Larning](#gdl)
-  - [Survey Papers](#gdl-survey)
-  - [Invariance and Equivariance](#equivariance)
-  - [Disentangling](#disentangling)
+
+- [Educational Resources](#resources)
+  - [Differential Geometry + Lie Groups](#diffgeo)
+  - [Geometric Statistics](#geomstats)
+  - [Geometric Deep Learning](#gdl)
+- Software Libraries
+- Research Papers
+  - [Perspectives](#perspectives)
+  - [Neuroscience](#neuro) 
+    - [Vision](#vision)
+    - [Spatial Navigation](#navigation)
+    - [Abstract Representations](#abstract)
+    - [Methods](#methods)
+  - [Geometric Deep Larning](#gdl)
+    - [Invariance and Equivariance](#equivariance)
+    - [Disentangling](#disentangling)
+    
 
 <br /><br />
 
+<a name="resources" />
+
+## Educational Resources
+
+<br />
+
+
+<a name="diffgeo" />
+
+### Differential Geometry + Lie Groups
+
+#### Textbooks 
+* [**Lie Groups, Lie Algebras, and Representations** (2003) <br /> *Brian C. Hall*](https://link.springer.com/book/10.1007/978-3-319-13467-3)
+* [**Differential Geometry and Lie Groups: A Computational Perspective** (2020) <br /> *Gallier & Quaintance*](https://link.springer.com/book/10.1007/978-3-030-46040-2)
+
+#### Courses, Lectures, and Videos
+* [**Differential Geometry for Computer Science** <br /> *Justin Solomon*](https://youtu.be/S_bUBfdffRU)
+
+<br />
+
+<a name="geomstats" />
+
+### Geometric Statistics
+
+#### Notebooks and Blogposts
+* [**Introduction to Differential Geometry and Machine Learning** <br /> *Geomstats Jupyter notebooks*](https://github.com/geomstats/geomstats/tree/master/notebooks)
+
+<br />
+
+<a name="gdl" />
+
+
+### Geometric Deep Learning
+
+#### Textbooks
+
+* [**Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges** (2021) <br /> _Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković_](https://arxiv.org/abs/2104.13478)
+* [**Group Theoretical Methods in Machine Learning** (2008) <br /> *Risi Kondor*](http://www.cs.columbia.edu/~jebara/papers/thesisKondor.pdf)
+* [**Equivariant Convolutional Networks** (2021) <br /> *Taco Cohen*](https://pure.uva.nl/ws/files/60770359/Thesis.pdf)
+
+#### Courses, Lectures, and Videos
+
+* [**An Introduction to Group Equivariant Deep Learning** (2022) <br /> *UvA*](https://uvadl2c.github.io/)
+
+
+<br /><br />
+
+
+## Software Libraries
+
+
+* [Geomstats](https://geomstats.github.io/)
+* [**Giotto TDA**](https://giotto-ai.github.io/gtda-docs/0.5.1/library.html)
+
+
+
+<br /><br />
+
+
+## Research Papers
+
+
 <a name="perspectives" />
 
-## Perspectives
+### Perspectives
 
 * [**Symmetry-based representations for artificial and biological general intelligence** (2022)  <br /> *Irina Higgins, Sébastien Racanière, Danilo Rezende.*](https://www.frontiersin.org/articles/10.3389/fncom.2022.836498/full)
 
 <br />
-<br />
 
 <a name="neuro" />
 
-## Neuroscience
+### Neuroscience
 
 <a name="vision" />
 
-### Vision
+#### Vision
 
 * [**The Lie algebra of visual perception** (1966)  <br /> *William C.Hoffman*](https://www.sciencedirect.com/science/article/abs/pii/0022249666900058) 
 
@@ -61,7 +129,7 @@ A curated collection of papers related to the geometry of representations in the
 
 <a name="navigation" />
 
-### Spatial Navigation
+#### Spatial Navigation
 
 * [**The intrinsic attractor manifold and population dynamics of a canonical cognitive circuit across waking and sleep** (2019)  <br /> *Rishidev Chaudhuri, Berk Gerçek, Biraj Pandey, Adrien Peyrache & Ila Fiete*](https://www.nature.com/articles/s41593-019-0460-x) 
 
@@ -70,42 +138,38 @@ A curated collection of papers related to the geometry of representations in the
 
 <a name="abstract" />
 
-### Abstract Representations
+#### Abstract Representations
 
 * [**The Geometry of Abstraction in the Hippocampus and Prefrontal Cortex** (2020) <br /> *Silvia Bernardi, Marcus K.Benna, Matti Rigotti, Jérôme Munuera, Stefano Fusi, Daniel Salzman*](https://www.sciencedirect.com/science/article/pii/S0092867420312289) 
 
 
 <a name="methods" />
 
-### Methods
+#### Methods
 
 * [**Interpreting neural computations by examining intrinsic and embedding dimensionality of neural activity** (2021) <br /> *Mehrdad Jazayeri, Srdjan Ostojic*](https://arxiv.org/abs/2107.04084) 
 
-<br /><br />
+<br />
 
 <a name="gdl" />
 
-## Geometric Deep Learning
+### Geometric Deep Learning
 
 <a name="gdl-survey" />
 
-### Survey Papers
-
-* [**Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges** (2021) <br /> _Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković_](https://arxiv.org/abs/2104.13478)
-
-### Theory
+#### Theory
 * [**Universal Approximation Theorems for Differentiable Geometric Deep Learning** (2022)  <br /> *Anastasis Kratsios, L´eonie Papon*](https://www.jmlr.org/papers/volume23/21-0716/21-0716.pdf)
 
 <a name="equivariance" />
 
-### Invariance and Equivariance
+#### Invariance and Equivariance
 
 * [**How we know universals** (1947)  <br /> *Walter Pitts & Warren S. McCulloch*](https://link.springer.com/content/pdf/10.1007/BF02478291.pdf) 
 
 
 <a name="disentangling" />
 
-### Disentangling
+#### Disentangling
 
 
 * [**Addressing the Topological Defects of Disentanglement via Distributed Operators** (2021)  <br /> *Diane Bouchacourt, Mark Ibrahim, Stéphane Deny*](https://arxiv.org/abs/2102.05623v1) 
