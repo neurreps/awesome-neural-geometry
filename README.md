@@ -28,6 +28,7 @@ A curated collection of resources and research related to the geometry of repres
     - [Abstract Representations](#abstract)
     - [Methods](#methods)
   - [Geometric Deep Larning](#gdl)
+    - [Theory](#theory)
     - [Invariance and Equivariance](#equivariance)
     - [Disentangling](#disentangling)
     
@@ -79,16 +80,16 @@ A curated collection of resources and research related to the geometry of repres
 #### Textbooks
 
 * [**Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges** (2021) <br /> _Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković_](https://arxiv.org/abs/2104.13478)
-* [**Group Theoretical Methods in Machine Learning** (2008) <br /> *Risi Kondor*](http://www.cs.columbia.edu/~jebara/papers/thesisKondor.pdf)
-* [**Equivariant Convolutional Networks** (2021) <br /> *Taco Cohen*](https://pure.uva.nl/ws/files/60770359/Thesis.pdf)
+* [**Group Theoretical Methods in Machine Learning** (2008) <br /> *Risi Kondor, PhD Thesis*](http://www.cs.columbia.edu/~jebara/papers/thesisKondor.pdf)
+* [**Equivariant Convolutional Networks** (2021) <br /> *Taco Cohen, PhD Thesis*](https://pure.uva.nl/ws/files/60770359/Thesis.pdf)
 
 #### Courses, Lectures, and Videos
 
-* [AMMI 2022 course on Geometric Deep Learning (2nd Edition)](https://www.youtube.com/watch?v=5c_-KX1sRDQ&list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)
+* [**AMMI 2022 course on Geometric Deep Learning** (2nd Edition)](https://www.youtube.com/watch?v=5c_-KX1sRDQ&list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)
 
-* [**An Introduction to Group Equivariant Deep Learning** (2022) <br /> *UvA*](https://uvadl2c.github.io/)
+* [**An Introduction to Group-Equivariant Deep Learning** (2022) <br /> *Erik Bekkers @ UvA*](https://uvadl2c.github.io/)
 
-* [GDL Lectures from the First Italian Summer School on GDL (2022)](https://www.youtube.com/playlist?list=PLn2-dEmQeTfRQXLKf9Fmlk3HmReGg3YZZ)
+* [**Lectures from the First Italian Summer School on GDL** (2022)](https://www.youtube.com/playlist?list=PLn2-dEmQeTfRQXLKf9Fmlk3HmReGg3YZZ)
 
 #### Notebooks and Blogposts
 * [**What does 2022 hold for Geometric & Graph ML?** <br /> *Michael Bronstein*](https://towardsdatascience.com/predictions-and-hopes-for-geometric-graph-ml-in-2022-aa3b8b79f5cc)
@@ -197,7 +198,7 @@ A curated collection of resources and research related to the geometry of repres
 
 ### Geometric Deep Learning
 
-<a name="gdl-survey" />
+<a name="theory" />
 
 #### Theory
 * [**Universal Approximation Theorems for Differentiable Geometric Deep Learning** (2022)  <br /> *Anastasis Kratsios, L´eonie Papon*](https://www.jmlr.org/papers/volume23/21-0716/21-0716.pdf)
