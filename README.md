@@ -13,6 +13,7 @@ A curated collection of resources and research related to the geometry of repres
 
 - [**Educational Resources**](#resources)
   - [Differential Geometry + Lie Groups](#diffgeo)
+  - [Topology](#topology)
   - [Geometric Deep Learning](#gdl)
 - [**Software Libraries**](#software)
 - [**Research Papers**](#research)
@@ -55,8 +56,15 @@ A curated collection of resources and research related to the geometry of repres
 
 
 
+<br />
+
+### Topology
+
+#### Courses, Lectures, and Videos
+* [**Computational Algebraic Topology** <br /> Vidit Nanda](https://youtube.com/playlist?list=PLnLAqsCN_2ke8_EUd_KoJsLkPO0BKrrc6)
 
 <br />
+
 
 <a name="gdl" />
 
