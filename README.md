@@ -16,6 +16,7 @@ A curated collection of resources and research related to the geometry of repres
   - [Topology](#topology)
   - [Geometric Deep Learning](#gdl)
 - [**Software Libraries**](#software)
+- [**Conferences and Workshops**](#conferences)
 - [**Research Papers**](#research)
   - [Perspectives](#perspectives)
   - [Neuroscience](#neuro) 
@@ -45,8 +46,10 @@ A curated collection of resources and research related to the geometry of repres
 
 #### Courses, Lectures, and Videos
 * [**Differential Geometry for Computer Science** <br /> *Justin Solomon*](https://youtube.com/playlist?list=PLQ3UicqQtfNvPmZftPyQ-qK1wdXBxj86W)
+* [**Discrete Differential Geometry** <br /> CMU](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)
 * [**What is a Manifold?** <br /> *XylyXylyX*](https://youtube.com/playlist?list=PLRlVmXqzHjUQHEx63ZFxV-0Ortgf-rpJo)
 * [**Lie Groups and Lie Algebras** <br /> *XylyXylyX*](https://youtube.com/playlist?list=PLRlVmXqzHjURZO0fviJuyikvKlGS6rXrb)
+* [**Lectures on Geometrical Anatomy of Theoretical Physics** <br /> Frederic Schuller](https://youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic)
 
 
 #### Notebooks and Blogposts
@@ -97,6 +100,17 @@ A curated collection of resources and research related to the geometry of repres
 
 
 <br /><br />
+
+<a name="conferences" />
+
+# Conferences and Workshops
+
+* [**NeurIPS Workshop on Symmetry and Geometry in Neural Representations (2022)**](https://neurreps.org)
+* [**ICML Workshop on Topology, Algebra and Geometry in Machine Learning (2022)**](https://www.tagds.com/events/conferences/tag-in-machine-learning)
+* [**ICLR Workshop on Geometrical and Topological Representation Learning (2022)**](https://gt-rl.github.io/)
+
+<br /><br />
+
 
 <a name="research" />
 
