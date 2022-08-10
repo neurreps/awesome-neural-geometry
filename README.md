@@ -81,7 +81,11 @@ A curated collection of resources and research related to the geometry of repres
 
 #### Courses, Lectures, and Videos
 
+* [AMMI 2022 course on Geometric Deep Learning (2nd Edition)](https://www.youtube.com/watch?v=5c_-KX1sRDQ&list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)
+
 * [**An Introduction to Group Equivariant Deep Learning** (2022) <br /> *UvA*](https://uvadl2c.github.io/)
+
+* [GDL Lectures from the First Italian Summer School on GDL (2022)](https://www.youtube.com/playlist?list=PLn2-dEmQeTfRQXLKf9Fmlk3HmReGg3YZZ)
 
 #### Notebooks and Blogposts
 * [**What does 2022 hold for Geometric & Graph ML?** <br /> *Michael Bronstein*](https://towardsdatascience.com/predictions-and-hopes-for-geometric-graph-ml-in-2022-aa3b8b79f5cc)
