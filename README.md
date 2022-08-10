@@ -44,6 +44,10 @@ A curated collection of resources and research related to the geometry of repres
 
 #### Courses, Lectures, and Videos
 * [**Differential Geometry for Computer Science** <br /> *Justin Solomon*](https://youtu.be/S_bUBfdffRU)
+* [**What is a Manifold?** <br /> *XylyXylyX*](https://youtube.com/playlist?list=PLRlVmXqzHjUQHEx63ZFxV-0Ortgf-rpJo)
+* [**What is a Tensor?** <br /> *XylyXylyX*](https://youtube.com/playlist?list=PLRlVmXqzHjUQARA37r4Qw3SHPqVXgqO6c)
+* [**Lie Groups and Lie Algebras** <br /> *XylyXylyX*](https://youtube.com/playlist?list=PLRlVmXqzHjURZO0fviJuyikvKlGS6rXrb)
+
 
 #### Notebooks and Blogposts
 * [**Introduction to Differential Geometry and Machine Learning** <br /> *Geomstats Jupyter notebooks*](https://github.com/geomstats/geomstats/tree/master/notebooks)
