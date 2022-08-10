@@ -99,7 +99,17 @@ A curated collection of resources and research related to the geometry of repres
 
 
 * [**Geomstats**](https://geomstats.github.io/)
+  * Computation, statistics, and machine learning on non-Euclidean manifolds
 * [**Giotto TDA**](https://giotto-ai.github.io/gtda-docs/0.5.1/library.html)
+  * Topological Data Analysis
+* [**E3NN**](https://github.com/e3nn/e3nn)
+  * E(3)-equivariant neural networks
+* [**equivariant-MLP**](https://github.com/mfinzi/equivariant-MLP)
+  * Construct equivariant multilayer perceptrons for arbitrary matrix groups
+* [**SHTOOLS**](https://github.com/SHTOOLS/SHTOOLS)
+  * Python library for computations involving spherical harmoics
+* [**LieConv**](https://github.com/mfinzi/LieConv)
+  * Generalizing convolutional neural networks for equivariance to Lie groups on arbitrary continuous data
 
 
 
