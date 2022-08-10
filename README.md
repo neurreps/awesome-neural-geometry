@@ -205,6 +205,11 @@ A curated collection of resources and research related to the geometry of repres
 
 * [**How we know universals** (1947)  <br /> *Walter Pitts & Warren S. McCulloch*](https://link.springer.com/content/pdf/10.1007/BF02478291.pdf) 
 
+* [**Group equivariant convolutional networks** (2016) <br /> *Taco Cohen & Max Welling*](https://drive.google.com/file/d/10JqJrqRysF3c4_ruLe8ad0ijFdVlpjdp/view?usp=sharing)
+
+* [**Spherical CNNs** (2018) <br /> *Taco Cohen, Mario Geiger, Jonas Kohler, & Max Welling*](https://drive.google.com/file/d/186hhjJl_fQwEM9_lWpU6Dvac-S1ZTa3A/view?usp=sharing)
+
+* [**A General Theory of Equivariant CNNs on Homogeneous Spaces** (2019)<br /> *Taco Cohen, Mario Geiger, & Maurice Weiler](https://drive.google.com/file/d/1Vd6ID_HsY9PTHFqCEmPv4iTDlLsoBqVr/view?usp=sharing)
 
 <a name="disentangling" />
 
