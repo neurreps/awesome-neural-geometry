@@ -210,7 +210,11 @@ A curated collection of resources and research related to the geometry of repres
 #### Invariance and Equivariance
 
 * [**How we know universals** (1947)  <br /> *Walter Pitts & Warren S. McCulloch*](https://link.springer.com/content/pdf/10.1007/BF02478291.pdf) 
-
+* [**Learning Symmetry Groups with Hidden Units: Beyond the Perceptron** (1986) <br /> *Terrence Sejnowski, Paul K. Kienker, Geoffrey Hinton*](https://drive.google.com/file/d/1P3QhDIw9vTgYUA-cTMDlRAoXOgpsPQom/view?usp=sharing)
+* [**Learning Lie groups for invariant visual perception** (1999) <br /> *Rajesh Rao, Daniel Ruderman*](https://proceedings.neurips.cc/paper/1998/file/277281aada22045c03945dcb2ca6f2ec-Paper.pdf)
+* [**Learning the Lie groups of visual invariance** (2007) <br /> *Xu Miao, Rajesh Rao*](https://direct.mit.edu/neco/article-abstract/19/10/2665/7221/Learning-the-Lie-Groups-of-Visual-Invariance)
+* [**An unsupervised algorithm for learning Lie group transformations.** (2010) <br /> Jascha Sohl-Dickstein, Ching Ming Wang, Bruno Olshausen](https://arxiv.org/pdf/1001.1027.pdf)
+* [**Learning the irreducible representations of commutative Lie groups** (2014) <br /> *Taco Cohen & Max Welling*](http://proceedings.mlr.press/v32/cohen14.pdf)
 * [**Group equivariant convolutional networks** (2016) <br /> *Taco Cohen & Max Welling*](https://drive.google.com/file/d/10JqJrqRysF3c4_ruLe8ad0ijFdVlpjdp/view?usp=sharing)
 
 * [**Spherical CNNs** (2018) <br /> *Taco Cohen, Mario Geiger, Jonas Kohler, & Max Welling*](https://drive.google.com/file/d/186hhjJl_fQwEM9_lWpU6Dvac-S1ZTa3A/view?usp=sharing)
