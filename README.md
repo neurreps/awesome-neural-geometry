@@ -110,9 +110,11 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Introduction to the Theory of Neural Computation** (1991) <br /> *John Hertz, Anders Krogh, Richard G Palmer*](https://drive.google.com/file/d/1jjAHNSZld1tjH0wiqXc9wCv3Y6h5sjok/view?usp=sharing)
 * [**Theoretical Neuroscience** (2001) <br /> *Peter Dayan*](http://www.gatsby.ucl.ac.uk/~lmate/biblio/dayanabbott.pdf)
 * [**Dynamical Systems in Neuroscience: The Geometry of Excitability and Bursting** (2006) <br /> *Eugene M. Izhikevich*](https://drive.google.com/file/d/1CXQCPl6MN8XSmoyo6J0TbdlWhBmaib62/view?usp=sharing)
+* [**Principles of Neural Design** (2015) <br /> *Peter Sterling & Simon Laughlin*](https://drive.google.com/file/d/1cskdlUJBjAY5wH7GeZa2IxT9iSXZ_3_0/view?usp=sharing)
+
+#### Books - General Audience
 * [**Rythyms of the Brain** (2006) <br /> *Gyorgy Buzsaki*](https://drive.google.com/file/d/1DtGEb54qJNS2wkny1FXM4b_dfT-b140y/view?usp=sharing)
 * [**Networks of the Brain** (2010) <br /> *Olaf Sporns*](https://drive.google.com/file/d/1MsGNsFVF7AxPtnyv1WnH-YnZMGvhUkHb/view?usp=sharing)
-* [**Principles of Neural Design** (2015) <br /> *Peter Sterling & Simon Laughlin*](https://drive.google.com/file/d/1cskdlUJBjAY5wH7GeZa2IxT9iSXZ_3_0/view?usp=sharing)
 
 #### Courses, Lectures, and Videos
 * [**Neural Computation VS265** <br /> *Bruno Olshausen @ UC Berkeley*](https://redwood.berkeley.edu/courses/vs265/)
