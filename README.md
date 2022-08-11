@@ -88,11 +88,13 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 #### Courses, Lectures, and Videos
 
-* [**AMMI 2022 course on Geometric Deep Learning** (2nd Edition)](https://www.youtube.com/watch?v=5c_-KX1sRDQ&list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)
+* [**Geometric Deep Learning** (2nd Edition) <br />  *Michael Bronstein, Joan Bruna, Taco Cohen, Petar Veličković @ AMMI*](https://www.youtube.com/watch?v=5c_-KX1sRDQ&list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)
 
 * [**An Introduction to Group-Equivariant Deep Learning** (2022) <br /> *Erik Bekkers @ UvA*](https://uvadl2c.github.io/)
 
-* [**Lectures from the First Italian Summer School on GDL** (2022)](https://www.youtube.com/playlist?list=PLn2-dEmQeTfRQXLKf9Fmlk3HmReGg3YZZ)
+* [**Italian Summer School on Geometric Deep Learning** (2022) <br /> *Cristian Bodnar, Michael Bronstein, Francesco Di Giovanni, Pim de Haan, Maurice Weiler*](https://www.youtube.com/playlist?list=PLn2-dEmQeTfRQXLKf9Fmlk3HmReGg3YZZ)
+
+* [**COMP760: Geometry and Generative Models** (2022) <br /> *Joey Bose and Prakash Panangaden @ MILA*](https://joeybose.github.io/Blog/GenCourse)
 
 #### Notebooks and Blogposts
 * [**Geometric foundations of Deep Learning** <br /> *Michael Bronstein, Joan Bruna, Taco Cohen, and Petar Veličković*](https://towardsdatascience.com/geometric-foundations-of-deep-learning-94cdd45b451d)
