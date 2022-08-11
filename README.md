@@ -4,6 +4,8 @@
 
 A curated collection of resources and research related to the geometry of representations in the brain, deep networks, and beyond, collaboratively generated on the [Symmetry and Geometry in Neural Representations](https://www.neurreps.org) Slack Workspace.
 
+This is a collaborative work-in-progress. Please contribute via PRs!
+
 [Join us on Slack!](https://communityinviter.com/apps/neurreps/join)
 
 
