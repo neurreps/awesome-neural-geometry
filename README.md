@@ -201,6 +201,7 @@ A curated collection of resources and research related to the geometry of repres
 <a name="theory" />
 
 #### Theory
+* [**The Riemannian Geometry of Deep Generative Models** (2018) <br /> *Hang Shao, Abhishek Kumar, P. Thomas Fletcher*](https://drive.google.com/file/d/1Nxq-lLG1txHy6cYjOM3fMM3D5yIZx6hd/view?usp=sharing)
 * [**Universal Approximation Theorems for Differentiable Geometric Deep Learning** (2022)  <br /> *Anastasis Kratsios, L´eonie Papon*](https://www.jmlr.org/papers/volume23/21-0716/21-0716.pdf)
 
 <a name="equivariance" />
