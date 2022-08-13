@@ -57,6 +57,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**What is a Manifold?** <br /> *XylyXylyX*](https://youtube.com/playlist?list=PLRlVmXqzHjUQHEx63ZFxV-0Ortgf-rpJo)
 * [**Lie Groups and Lie Algebras** <br /> *XylyXylyX*](https://youtube.com/playlist?list=PLRlVmXqzHjURZO0fviJuyikvKlGS6rXrb)
 * [**Lectures on Geometric Anatomy of Theoretical Physics** <br /> Frederic Schuller](https://youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic)
+* [**Weekend with Bernie (Riemann)** <br /> Søren Hauberg @ DTU](http://www2.compute.dtu.dk/~sohau/weekendwithbernie/)
 
 
 #### Notebooks and Blogposts
