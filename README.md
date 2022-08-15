@@ -120,6 +120,13 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 #### Courses, Lectures, and Videos
 * [**Neural Computation VS265** <br /> *Bruno Olshausen @ UC Berkeley*](https://redwood.berkeley.edu/courses/vs265/)
 
+#### Open-Source Dataset Repositories
+* [**OpenNeuro**](https://openneuro.org/)
+* [**NeuroVault**](https://neurovault.org/)
+* [**CRCNS**](https://crcns.org/data-sets)
+* [**NeuroData Without Borders**](https://www.nwb.org/example-datasets/)
+* [**Allen Brain Atlas**](https://portal.brain-map.org/)
+
 <br /><br />
 
 <a name="software" />
