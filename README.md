@@ -129,6 +129,8 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Kavli Institute for Systems Neuroscience Grid Cell Database**](https://www.ntnu.edu/kavli/research/grid-cell-data)
 * [**The Natural Scenes Dataset**](http://naturalscenesdataset.org/)
   * Whole-brain fMRI data from 8 humans viewing thousands of natural scenes in color
+* [**Open Neuroscience**](https://open-neuroscience.com/)
+  * Database of open-source tools and software for neuroscience
 
 <br /><br />
 
