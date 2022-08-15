@@ -126,7 +126,9 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**CRCNS**](https://crcns.org/data-sets)
 * [**NeuroData Without Borders**](https://www.nwb.org/example-datasets/)
 * [**Allen Brain Atlas**](https://portal.brain-map.org/)
-* [**Grid Cell Data - Kavli Institute for Systems Neuroscience**](https://www.ntnu.edu/kavli/research/grid-cell-data)
+* [**Kavli Institute for Systems Neuroscience Grid Cell Database**](https://www.ntnu.edu/kavli/research/grid-cell-data)
+* [**The Natural Scenes Dataset**](http://naturalscenesdataset.org/)
+  * Whole-brain fMRI data from 8 humans viewing thousands of natural scenes in color
 
 <br /><br />
 
