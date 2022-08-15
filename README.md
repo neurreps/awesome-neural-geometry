@@ -126,6 +126,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**CRCNS**](https://crcns.org/data-sets)
 * [**NeuroData Without Borders**](https://www.nwb.org/example-datasets/)
 * [**Allen Brain Atlas**](https://portal.brain-map.org/)
+* [**Grid Cell Data - Kavli Institute for Systems Neuroscience**](https://www.ntnu.edu/kavli/research/grid-cell-data)
 
 <br /><br />
 
