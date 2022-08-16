@@ -18,6 +18,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 - [**Educational Resources**](#resources)
   - [Differential Geometry + Lie Groups](#diffgeo)
+  - [Algebra](#algebra)
   - [Topology](#topology)
   - [Geometric Deep Learning](#gdl)
   - [Computational Neuroscience](#neuro-resources)
@@ -67,6 +68,20 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 
 <br />
+
+### Algebra
+
+#### Textbooks
+* [**Tensors in Computations** <br /> *Lek-Heng Lim*](https://arxiv.org/pdf/2106.08090.pdf)
+* [**Aspects of Harmonic Analysis and Representation Theory** <br /> *Gallier & Quaintance*](https://drive.google.com/file/d/1eK8B1UpTJTnCXV6DL4-blDaKo6XQk28r/view?usp=sharing)
+
+#### Courses, Lectures, and Videos
+* [**What is a Tensor?** <br /> *XylyXylyX*](https://youtube.com/playlist?list=PLRlVmXqzHjUQARA37r4Qw3SHPqVXgqO6c)
+* [**Representation Theory** <br /> *Math Doctor Bob*](https://youtube.com/playlist?list=PL57457844458A5A1F)
+
+
+<br />
+
 
 ### Topology
 
