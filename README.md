@@ -22,6 +22,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
   - [Topology](#topology)
   - [Geometric Deep Learning](#gdl)
   - [Computational Neuroscience](#neuro-resources)
+- [**Datasets**](#datasets)
 - [**Software Libraries**](#software)
 - [**Conferences and Workshops**](#conferences)
 - [**Research Papers**](#research)
@@ -138,7 +139,14 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 #### Courses, Lectures, and Videos
 * [**Neural Computation VS265** <br /> *Bruno Olshausen @ UC Berkeley*](https://redwood.berkeley.edu/courses/vs265/)
 
-#### Open-Source Dataset Repositories
+
+<br /><br />
+
+<a name="datasets" />
+
+# Datasets
+
+### Open-Source Neuroscience Datasets
 * [**OpenNeuro**](https://openneuro.org/)
 * [**NeuroVault**](https://neurovault.org/)
 * [**CRCNS**](https://crcns.org/data-sets)
@@ -146,9 +154,8 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Allen Brain Atlas**](https://portal.brain-map.org/)
 * [**Kavli Institute for Systems Neuroscience Grid Cell Database**](https://www.ntnu.edu/kavli/research/grid-cell-data)
 * [**The Natural Scenes Dataset**](http://naturalscenesdataset.org/)
-  * Whole-brain fMRI data from 8 humans viewing thousands of natural scenes in color
 * [**Open Neuroscience**](https://open-neuroscience.com/)
-  * Database of open-source tools and software for neuroscience
+  * Open-source tools and software for neuroscience
 
 <br /><br />
 
