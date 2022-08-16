@@ -132,6 +132,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 #### Books - General Audience
 * [**Rythyms of the Brain** (2006) <br /> *Gyorgy Buzsaki*](https://drive.google.com/file/d/1DtGEb54qJNS2wkny1FXM4b_dfT-b140y/view?usp=sharing)
 * [**Networks of the Brain** (2010) <br /> *Olaf Sporns*](https://drive.google.com/file/d/1MsGNsFVF7AxPtnyv1WnH-YnZMGvhUkHb/view?usp=sharing)
+* [**Models of the Mind: How Physics, Engineering and Mathematics Have Shaped Our Understanding of the Brain** (2021) <br /> *Grace Lindsay*](https://www.goodreads.com/en/book/show/50884536-models-of-the-mind)
 
 #### Courses, Lectures, and Videos
 * [**Neural Computation VS265** <br /> *Bruno Olshausen @ UC Berkeley*](https://redwood.berkeley.edu/courses/vs265/)
