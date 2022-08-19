@@ -33,7 +33,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
     - [Spatial Navigation](#navigation)
     - [Abstract Representations](#abstract)
     - [Methods](#methods)
-  - [Geometric Deep Larning](#gdl)
+  - [Geometric Machine Learning](#gdl)
     - [Theory](#theory)
     - [Invariance and Equivariance](#equivariance)
     - [Disentangling](#disentangling)
