@@ -189,7 +189,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**NeurIPS Workshop on Symmetry and Geometry in Neural Representations** (2022)](https://neurreps.org)
 * [**ICML Workshop on Topology, Algebra and Geometry in Machine Learning** (2022](https://www.tagds.com/events/conferences/tag-in-machine-learning)
 * [**ICLR Workshop on Geometrical and Topological Representation Learning** (2022](https://gt-rl.github.io/)
-* [**Workshop on Symmetry, Invariance and Neural Representations @ The Bernstein Conference** (2022](https://bernstein-network.de/bernstein-conference/program/satellite-workshops/symmetry-invariance-and-neural-representations/)
+* [**Workshop on Symmetry, Invariance and Neural Representations @ The Bernstein Conference** (2022)](https://bernstein-network.de/bernstein-conference/program/satellite-workshops/symmetry-invariance-and-neural-representations/)
 
 <br /><br />
 
