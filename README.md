@@ -20,7 +20,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
   - [Differential Geometry + Lie Groups](#diffgeo)
   - [Algebra](#algebra)
   - [Topology](#topology)
-  - [Geometric Deep Learning](#gdl)
+  - [Geometric Machine Learning](#gdl)
   - [Computational Neuroscience](#neuro-resources)
 - [**Datasets**](#datasets)
 - [**Software Libraries**](#software)
@@ -96,7 +96,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 <a name="gdl" />
 
 
-### Geometric Deep Learning
+### Geometric Machine Learning
 
 #### Textbooks
 
@@ -154,8 +154,6 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Allen Brain Atlas**](https://portal.brain-map.org/)
 * [**Kavli Institute for Systems Neuroscience Grid Cell Database**](https://www.ntnu.edu/kavli/research/grid-cell-data)
 * [**The Natural Scenes Dataset**](http://naturalscenesdataset.org/)
-* [**Open Neuroscience**](https://open-neuroscience.com/)
-  * Open-source tools and software for neuroscience
 
 <br /><br />
 
@@ -176,6 +174,8 @@ This is a collaborative work-in-progress. Please contribute via PRs!
   * Python library for computations involving spherical harmoics
 * [**LieConv**](https://github.com/mfinzi/LieConv)
   * Generalizing convolutional neural networks for equivariance to Lie groups on arbitrary continuous data
+* [**Open Neuroscience**](https://open-neuroscience.com/)
+  * A database of open-source tools and software for neuroscience
 
 
 
@@ -185,9 +185,10 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 # Conferences and Workshops
 
-* [**NeurIPS Workshop on Symmetry and Geometry in Neural Representations (2022)**](https://neurreps.org)
-* [**ICML Workshop on Topology, Algebra and Geometry in Machine Learning (2022)**](https://www.tagds.com/events/conferences/tag-in-machine-learning)
-* [**ICLR Workshop on Geometrical and Topological Representation Learning (2022)**](https://gt-rl.github.io/)
+* [**NeurIPS Workshop on Symmetry and Geometry in Neural Representations** (2022)](https://neurreps.org)
+* [**ICML Workshop on Topology, Algebra and Geometry in Machine Learning** (2022](https://www.tagds.com/events/conferences/tag-in-machine-learning)
+* [**ICLR Workshop on Geometrical and Topological Representation Learning** (2022](https://gt-rl.github.io/)
+* [**Workshop on Symmetry, Invariance and Neural Representations @ The Bernstein Conference** (2022](https://bernstein-network.de/bernstein-conference/program/satellite-workshops/symmetry-invariance-and-neural-representations/)
 
 <br /><br />
 
@@ -263,13 +264,14 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 #### Methods
 
+* [**Manifold GPLVMs for discovering non-Euclidean latent structure in neural data** (2020) <br /> *Kristopher Jensen, Ta-Chu Kao, Marco Tripodi, and Guillaume Hennequin* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://proceedings.neurips.cc/paper/2020/file/fedc604da8b0f9af74b6cfc0fab2163c-Paper.pdf)
 * [**Interpreting neural computations by examining intrinsic and embedding dimensionality of neural activity** (2021) <br /> *Mehrdad Jazayeri, Srdjan Ostojic*](https://arxiv.org/abs/2107.04084) 
 
 <br />
 
 <a name="gdl" />
 
-### Geometric Deep Learning
+### Geometric Machine Learning
 
 <a name="theory" />
 
