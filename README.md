@@ -29,6 +29,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
   - [Perspectives](#perspectives)
   - [Neuroscience](#neuro) 
     - [Vision](#vision)
+    - [Motor Control](#motor)
     - [Spatial Navigation](#navigation)
     - [Abstract Representations](#abstract)
     - [Methods](#methods)
@@ -243,6 +244,13 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Primary visual cortex straightens natural video trajectories** (2021)  <br /> *Olivier J. Hénaff, Yoon Bai, Julie A. Charlton, Ian Nauhaus, Eero P. Simoncelli & Robbe L. T. Goris*](https://www.nature.com/articles/s41467-021-25939-z) 
 
 
+<a name="motor" />
+
+#### Motor Control
+
+* [**Neural manifolds for the control of movement** (2017) <br /> *Juan Gallego, Matthew Perich, Lee Miller, Sara Solla*](https://www.sciencedirect.com/science/article/pii/S0896627317304634)
+
+
 <a name="navigation" />
 
 #### Spatial Navigation
@@ -258,6 +266,8 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 #### Abstract Representations
 
 * [**The Geometry of Abstraction in the Hippocampus and Prefrontal Cortex** (2020) <br /> *Silvia Bernardi, Marcus K.Benna, Matti Rigotti, Jérôme Munuera, Stefano Fusi, Daniel Salzman*](https://www.sciencedirect.com/science/article/pii/S0092867420312289) 
+
+* [**Geometry of abstract learned knowledge in the hippocampus** (2021) <br /> Edward Nieh, et al.](https://www.nature.com/articles/s41586-021-03652-7)
 
 
 <a name="methods" />
