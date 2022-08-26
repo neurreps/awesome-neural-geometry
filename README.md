@@ -35,8 +35,9 @@ This is a collaborative work-in-progress. Please contribute via PRs!
     - [Methods](#methods)
   - [Geometric Machine Learning](#gdl)
     - [Theory](#theory)
-    - [Invariance and Equivariance](#equivariance)
-    - [Disentangling](#disentangling)
+    - [Estimation on Manifolds](#estimation)
+    - [Dimensionality Reduction and Disentangling](#disentangling)
+    - [Group-Invariant and -Equivariant Representation Learning](#equivariance)
     
 
 <br /><br />
@@ -294,20 +295,34 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**The Riemannian Geometry of Deep Generative Models** (2018) <br /> *Hang Shao, Abhishek Kumar, P. Thomas Fletcher* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />](https://drive.google.com/file/d/1Nxq-lLG1txHy6cYjOM3fMM3D5yIZx6hd/view?usp=sharing)
 * [**Universal Approximation Theorems for Differentiable Geometric Deep Learning** (2022)  <br /> *Anastasis Kratsios, L´eonie Papon* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />
 ](https://www.jmlr.org/papers/volume23/21-0716/21-0716.pdf)
-* [**Regularized Autoencoders for Isometric Representation Learning** (2022)  <br /> *Yonghyeon Lee, Sangwoong Yoon, Minjun Son, Frank C. Park* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />
-](https://drive.google.com/file/d/1XFdHcPMFDFF-7H10LwLg7N_6d0_cIJmE/view)
+
 * [**A Statistical Manifold Framework for Point Cloud Data** (2022)  <br /> *Yonghyeon Lee, Seungyeon Kim, Jinwon Choi, Frank C. Park* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />
 ](https://drive.google.com/file/d/1SynnbbJH7NSP_TaYDwsSH5QMUJK1YzSA/view)
+
+<a name="estimation" />
 
 #### Estimation on Manifolds
 * [**Intrinsic Statistics on Riemannian Manifolds** (2011) <br /> *Xavier Pennec*](https://hal.inria.fr/inria-00614994/document)
 * [**Geometric Statistics for Computational Anatomy** (2016) <br /> *Nina Miolane, PhD Thesis*](https://tel.archives-ouvertes.fr/tel-01411886v2/document)
 * [**Maximum Likelihood Estimators on Manifolds** (2017) <br /> *Hatem Hajri, Salem Said, Yannick Berthoumieu*](https://hal.archives-ouvertes.fr/hal-01500284/document)
 
+<a name="disentangling" />
+
+#### Dimensionality Reduction and Disentangling
+
+* [**Hyperspherical Variational Auto-Encoders** (2018) <br /> *Tim R. Davidson, Luca Falorsi, Nicola De Cao, Thomas Kipf, Jakub M. Tomczak* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://drive.google.com/file/d/1tGGqozCte2XmdzIETYu33LFSGgMvK774/view?usp=sharing)
+
+* [**Addressing the Topological Defects of Disentanglement via Distributed Operators** (2021)  <br /> *Diane Bouchacourt, Mark Ibrahim, Stéphane Deny* <br /> <img src="https://img.shields.io/badge/-topology-FFD3B5" />
+](https://arxiv.org/abs/2102.05623v1) 
+
+* [**Visualizing Riemannian Data with Rie-SNE** (2022) <br /> *Andri Bergsson and Soren Hauberg*](https://arxiv.org/pdf/2203.09253.pdf)
+* [**Regularized Autoencoders for Isometric Representation Learning** (2022)  <br /> *Yonghyeon Lee, Sangwoong Yoon, Minjun Son, Frank C. Park* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />
+](https://drive.google.com/file/d/1XFdHcPMFDFF-7H10LwLg7N_6d0_cIJmE/view)
+
 
 <a name="equivariance" />
 
-#### Group-Equivariant Neural Networks
+#### Group-Invariant and -Equivariant Representation Learning
 
 * [**How we know universals** (1947)  <br /> *Walter Pitts & Warren S. McCulloch* <br /><img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://link.springer.com/content/pdf/10.1007/BF02478291.pdf) 
 * [**Learning Symmetry Groups with Hidden Units: Beyond the Perceptron** (1986) <br /> *Terrence Sejnowski, Paul K. Kienker, Geoffrey Hinton* <br /><img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://drive.google.com/file/d/1P3QhDIw9vTgYUA-cTMDlRAoXOgpsPQom/view?usp=sharing)
@@ -319,7 +334,6 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 * [**Spherical CNNs** (2018) <br /> *Taco Cohen, Mario Geiger, Jonas Kohler, & Max Welling* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://drive.google.com/file/d/186hhjJl_fQwEM9_lWpU6Dvac-S1ZTa3A/view?usp=sharing)
 
-* [**Hyperspherical Variational Auto-Encoders** (2018) <br /> *Tim R. Davidson, Luca Falorsi, Nicola De Cao, Thomas Kipf, Jakub M. Tomczak* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://drive.google.com/file/d/1tGGqozCte2XmdzIETYu33LFSGgMvK774/view?usp=sharing)
 * [**Clebsch–gordan nets: a fully fourier space spherical convolutional neural network** (2018) <br /> *Risi Kondor, Zhen Lin, Shubhendu Trivedi* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://drive.google.com/file/d/1-NuvFpo0VkY-NDbt89oGDroz23yQ9nhL/view?usp=sharing)
 * [**Tensor field networks: Rotation-and translation-equivariant neural networks for 3d point clouds** (2018) <br /> *Nathaniel Thomas, Tess Smidt, Steven Kearnes, Lusann Yang, Li Li, Kai Kohlhoff, Patrick Riley* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://drive.google.com/file/d/1nwbEb9FIJ04aSX40BIZtAxH5ujTQ7Lfv/view?usp=sharing)
 
@@ -327,11 +341,4 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 * [**Generalizing convolutional neural networks for equivariance to Lie groups on arbitrary continuous data** (2020) <br /> *Marc Finzi, Samuel Stanton, Pavel Izmailov, Andrew Gordon Wilson* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://drive.google.com/file/d/1Xzvq2s7Oj3XXftHFcvrI5IhZklS7tt7L/view?usp=sharing)
 
-<a name="disentangling" />
-
-#### Disentangling
-
-
-* [**Addressing the Topological Defects of Disentanglement via Distributed Operators** (2021)  <br /> *Diane Bouchacourt, Mark Ibrahim, Stéphane Deny* <br /> <img src="https://img.shields.io/badge/-topology-FFD3B5" />
-](https://arxiv.org/abs/2102.05623v1) 
 
