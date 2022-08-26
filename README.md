@@ -58,6 +58,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Differential Geometry for Computer Science** <br /> *Justin Solomon*](https://youtube.com/playlist?list=PLQ3UicqQtfNvPmZftPyQ-qK1wdXBxj86W)
 * [**Discrete Differential Geometry** <br /> CMU](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)
 * [**What is a Manifold?** <br /> *XylyXylyX*](https://youtube.com/playlist?list=PLRlVmXqzHjUQHEx63ZFxV-0Ortgf-rpJo)
+* [**Manifolds** <br /> *Robert Davie*](https://youtube.com/playlist?list=PLeFwDGOexoe8cjplxwQFMvGLSxbOTUyLv)
 * [**Lie Groups and Lie Algebras** <br /> *XylyXylyX*](https://youtube.com/playlist?list=PLRlVmXqzHjURZO0fviJuyikvKlGS6rXrb)
 * [**Lectures on Geometric Anatomy of Theoretical Physics** <br /> Frederic Schuller](https://youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic)
 * [**Weekend with Bernie (Riemann)** <br /> Søren Hauberg @ DTU](http://www2.compute.dtu.dk/~sohau/weekendwithbernie/)
@@ -66,6 +67,8 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 #### Notebooks and Blogposts
 * [**Introduction to Differential Geometry and Machine Learning** <br /> *Geomstats Jupyter notebooks*](https://github.com/geomstats/geomstats/tree/master/notebooks)
 * [**Differential Geometry for Machine Learning** <br /> *Roger Grosse*](https://metacademy.org/roadmaps/rgrosse/dgml)
+* [**Manifolds: A Gentle Introduction** <br /> *Brian Keng*](https://bjlkeng.github.io/posts/manifolds/)
+
 
 
 
@@ -104,6 +107,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges** (2021) <br /> _Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković_](https://arxiv.org/abs/2104.13478)
 * [**Group Theoretical Methods in Machine Learning** (2008) <br /> *Risi Kondor, PhD Thesis*](http://www.cs.columbia.edu/~jebara/papers/thesisKondor.pdf)
 * [**Equivariant Convolutional Networks** (2021) <br /> *Taco Cohen, PhD Thesis*](https://pure.uva.nl/ws/files/60770359/Thesis.pdf)
+* [**An Introduction to Optimization on Smooth Manifolds** (2022) <br /> *Nicolas Boumal*](https://sma.epfl.ch/~nboumal/book/IntroOptimManifolds_Boumal_2022.pdf)
 
 #### Courses, Lectures, and Videos
 
@@ -119,6 +123,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 #### Notebooks and Blogposts
 * [**Geometric foundations of Deep Learning** <br /> *Michael Bronstein, Joan Bruna, Taco Cohen, and Petar Veličković*](https://towardsdatascience.com/geometric-foundations-of-deep-learning-94cdd45b451d)
 * [**What does 2022 hold for Geometric & Graph ML?** <br /> *Michael Bronstein*](https://towardsdatascience.com/predictions-and-hopes-for-geometric-graph-ml-in-2022-aa3b8b79f5cc)
+* [**Geometric Machine Learning for Shape Analysis with Jupyter Notebooks** <br /> *Nina Miolane*](https://github.com/bioshape-lab/ece594n/tree/main/lectures)
 
 <br />
 
@@ -294,9 +299,15 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**A Statistical Manifold Framework for Point Cloud Data** (2022)  <br /> *Yonghyeon Lee, Seungyeon Kim, Jinwon Choi, Frank C. Park* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />
 ](https://drive.google.com/file/d/1SynnbbJH7NSP_TaYDwsSH5QMUJK1YzSA/view)
 
+#### Estimation on Manifolds
+* [**Intrinsic Statistics on Riemannian Manifolds** (2011) <br /> *Xavier Pennec*](https://hal.inria.fr/inria-00614994/document)
+* [**Geometric Statistics for Computational Anatomy** (2016) <br /> *Nina Miolane, PhD Thesis*](https://tel.archives-ouvertes.fr/tel-01411886v2/document)
+* [**Maximum Likelihood Estimators on Manifolds** (2017) <br /> *Hatem Hajri, Salem Said, Yannick Berthoumieu*](https://hal.archives-ouvertes.fr/hal-01500284/document)
+
+
 <a name="equivariance" />
 
-#### Invariance and Equivariance
+#### Group-Equivariant Neural Networks
 
 * [**How we know universals** (1947)  <br /> *Walter Pitts & Warren S. McCulloch* <br /><img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://link.springer.com/content/pdf/10.1007/BF02478291.pdf) 
 * [**Learning Symmetry Groups with Hidden Units: Beyond the Perceptron** (1986) <br /> *Terrence Sejnowski, Paul K. Kienker, Geoffrey Hinton* <br /><img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://drive.google.com/file/d/1P3QhDIw9vTgYUA-cTMDlRAoXOgpsPQom/view?usp=sharing)
