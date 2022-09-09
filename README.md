@@ -309,7 +309,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Hyperspherical Variational Auto-Encoders** (2018) <br /> *Tim R. Davidson, Luca Falorsi, Nicola De Cao, Thomas Kipf, Jakub M. Tomczak* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://drive.google.com/file/d/1tGGqozCte2XmdzIETYu33LFSGgMvK774/view?usp=sharing)
 * [**Addressing the Topological Defects of Disentanglement via Distributed Operators** (2021)  <br /> *Diane Bouchacourt, Mark Ibrahim, Stéphane Deny* <br /> <img src="https://img.shields.io/badge/-topology-FFD3B5" />
 ](https://arxiv.org/abs/2102.05623v1) 
-* [**Visualizing Riemannian Data with Rie-SNE** (2022) <br /> *Andri Bergsson and Soren Hauberg*](https://arxiv.org/pdf/2203.09253.pdf)
+* [**Visualizing Riemannian Data with Rie-SNE** (2022) <br /> *Andri Bergsson and Soren Hauberg* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />](https://arxiv.org/pdf/2203.09253.pdf)
 * [**Regularized Autoencoders for Isometric Representation Learning** (2022)  <br /> *Yonghyeon Lee, Sangwoong Yoon, Minjun Son, Frank C. Park* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />
 ](https://drive.google.com/file/d/1XFdHcPMFDFF-7H10LwLg7N_6d0_cIJmE/view)
 
