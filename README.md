@@ -28,6 +28,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 - [**Research Papers**](#research)
   - [Perspectives](#perspectives)
   - [Neuroscience](#neuro) 
+    - [Theory](#theory)
     - [Vision](#vision)
     - [Motor Control](#motor)
     - [Spatial Navigation](#navigation)
@@ -113,11 +114,8 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 #### Courses, Lectures, and Videos
 
 * [**Geometric Deep Learning** (2nd Edition) <br />  *Michael Bronstein, Joan Bruna, Taco Cohen, Petar Veličković @ AMMI*](https://www.youtube.com/watch?v=5c_-KX1sRDQ&list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)
-
 * [**An Introduction to Group-Equivariant Deep Learning** (2022) <br /> *Erik Bekkers @ UvA*](https://uvadl2c.github.io/)
-
 * [**Italian Summer School on Geometric Deep Learning** (2022) <br /> *Cristian Bodnar, Michael Bronstein, Francesco Di Giovanni, Pim de Haan, Maurice Weiler*](https://www.youtube.com/playlist?list=PLn2-dEmQeTfRQXLKf9Fmlk3HmReGg3YZZ)
-
 * [**COMP760: Geometry and Generative Models** (2022) <br /> *Joey Bose and Prakash Panangaden @ MILA*](https://joeybose.github.io/Blog/GenCourse)
 * [**CSC 2547: Current Topics in Machine Learning Methods in 3D and Geometric Deep Learning** (2021) <br /> *Animesh Garg @ University of Toronto*](https://youtube.com/playlist?list=PLki3HkfgNEsLrbI_r2iqNogmL5DW6HJXF)
 
@@ -226,28 +224,28 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 <a name="neuro" />
 
 ### Neuroscience
+               
+<a name="theory" />
+                
+#### Theory
+* [**Navigating the neural space in search of the neural code.** (2017) <br /> *Jazayeri, M., & Afraz, A.*](https://www.sciencedirect.com/science/article/pii/S0896627317301034)
+* [**A theory of multineuronal dimensionality, dynamics and measurement.** (2017) <br /> *Gao, P., Trautmann, E., Yu, B., Santhanam, G., Ryu, S., Shenoy, K., & Ganguli, S.*](https://www.biorxiv.org/content/biorxiv/early/2017/11/05/214262.full.pdf)
 
 <a name="vision" />
 
 #### Vision
 
 * [**The Lie algebra of visual perception** (1966)  <br /> *William C.Hoffman*  <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://www.sciencedirect.com/science/article/abs/pii/0022249666900058) 
-
 * [**Representation of local geometry in the visual system** (1987)  <br /> *Jan Koenderink*](https://link.springer.com/article/10.1007/BF00318371) 
-
 * [**Operational Significance of Receptive Fields Assemblies** (1989)  <br /> *Jan Koenderink*](https://link.springer.com/content/pdf/10.1007/BF00364136.pdf) 
-
 * [**The Visual Cortex is a Contact Bundle** (1989)  <br /> *William C. Hoffman*  <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />](http://www.its.caltech.edu/~matilde/VisualCortexContactBundle.pdf) 
-
 * [**Geometric visual hallucinations, Euclidean symmetry and the functional architecture of striate cortex** (2001)  <br /> *Paul C. Bressloff, Jack D. Cowan, Martin Golubitsky, Peter J. Thomas and Matthew C. Wiener*](https://royalsocietypublishing.org/doi/10.1098/rstb.2000.0769) 
-
 * [**The neurogeometry of pinwheels as a sub-Riemannian contact structure** (2003)  <br /> *Jean Petitot* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />](https://www.sciencedirect.com/science/article/abs/pii/S092842570300072X?casa_token=0mRpfL4cgoQAAAAA:qqV8dNcjLcg7xS1XScDlk20agI3Aa0d_vzvihKM5seCNU-PVuMzTEiI8xaAeTJH5QATLFFo) 
-
 * [**Parsimony, Exhaustivity and Balanced Detection in Neocortex** (2015)  <br /> *Alberto Romagnoni, Jérôme Ribot, Daniel Bennequin, Jonathan Touboul*](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004623) 
-
 * [**Predicting the retinotopic organization of human visual cortex from anatomy using geometric deep learning** (2021)  <br /> *Fernanda L. Ribeiro, Steffen Bollmann, Alexander M. Puckett*](https://www.sciencedirect.com/science/article/pii/S1053811921008971)
-
 * [**Primary visual cortex straightens natural video trajectories** (2021)  <br /> *Olivier J. Hénaff, Yoon Bai, Julie A. Charlton, Ian Nauhaus, Eero P. Simoncelli & Robbe L. T. Goris*](https://www.nature.com/articles/s41467-021-25939-z) 
+* [**Unsupervised deep learning identifies semantic disentanglement in single inferotemporal face patch neurons.** (2021) <br /> *Higgins, I., Chang, L., Langston, V., Hassabis, D., Summerfield, C., Tsao, D., & Botvinick, M.*](https://www.nature.com/articles/s41467-021-26751-5)
+
 
 
 <a name="motor" />
@@ -263,8 +261,6 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 * [**The intrinsic attractor manifold and population dynamics of a canonical cognitive circuit across waking and sleep** (2019)  <br /> *Rishidev Chaudhuri, Berk Gerçek, Biraj Pandey, Adrien Peyrache & Ila Fiete* <br /> <img src="https://img.shields.io/badge/-topology-FFD3B5" />
 ](https://www.nature.com/articles/s41593-019-0460-x) 
-
-
 * [**Toroidal topology of population activity in grid cells** (2022)  <br /> *Richard J. Gardner, Erik Hermansen, Marius Pachitariu, Yoram Burak, Nils A. Baas, Benjamin A. Dunn, May-Britt Moser & Edvard I. Moser* <br /> <img src="https://img.shields.io/badge/-topology-FFD3B5" />](https://www.nature.com/articles/s41586-021-04268-7) 
 
 <a name="abstract" />
@@ -272,7 +268,6 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 #### Abstract Representations
 
 * [**The Geometry of Abstraction in the Hippocampus and Prefrontal Cortex** (2020) <br /> *Silvia Bernardi, Marcus K.Benna, Matti Rigotti, Jérôme Munuera, Stefano Fusi, Daniel Salzman*](https://www.sciencedirect.com/science/article/pii/S0092867420312289) 
-
 * [**Geometry of abstract learned knowledge in the hippocampus** (2021) <br /> Edward Nieh, et al.](https://www.nature.com/articles/s41586-021-03652-7)
 
 
@@ -283,6 +278,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Inferring single-trial neural population dynamics using sequential auto-encoders.** (2018) <br /> *Pandarinath, C., O’Shea, D. J., Collins, J., Jozefowicz, R., Stavisky, S. D., Kao, J. C., ... & Sussillo, D.*](https://www.nature.com/articles/s41592-018-0109-9)
 * [**Manifold GPLVMs for discovering non-Euclidean latent structure in neural data** (2020) <br /> *Kristopher Jensen, Ta-Chu Kao, Marco Tripodi, and Guillaume Hennequin* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://proceedings.neurips.cc/paper/2020/file/fedc604da8b0f9af74b6cfc0fab2163c-Paper.pdf)
 * [**Interpreting neural computations by examining intrinsic and embedding dimensionality of neural activity** (2021) <br /> *Mehrdad Jazayeri, Srdjan Ostojic*](https://arxiv.org/abs/2107.04084) 
+* [**Generalized shape metrics on neural representations.** (2021) <br /> *Williams, A. H., Kunz, E., Kornblith, S., & Linderman, S.* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />](https://proceedings.neurips.cc/paper/2021/file/252a3dbaeb32e7690242ad3b556e626b-Paper.pdf)
 
 <br />
 
@@ -296,26 +292,23 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**The Riemannian Geometry of Deep Generative Models** (2018) <br /> *Hang Shao, Abhishek Kumar, P. Thomas Fletcher* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />](https://drive.google.com/file/d/1Nxq-lLG1txHy6cYjOM3fMM3D5yIZx6hd/view?usp=sharing)
 * [**Universal Approximation Theorems for Differentiable Geometric Deep Learning** (2022)  <br /> *Anastasis Kratsios, L´eonie Papon* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />
 ](https://www.jmlr.org/papers/volume23/21-0716/21-0716.pdf)
-
 * [**A Statistical Manifold Framework for Point Cloud Data** (2022)  <br /> *Yonghyeon Lee, Seungyeon Kim, Jinwon Choi, Frank C. Park* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />
 ](https://drive.google.com/file/d/1SynnbbJH7NSP_TaYDwsSH5QMUJK1YzSA/view)
 
 <a name="estimation" />
 
 #### Estimation on Manifolds
-* [**Intrinsic Statistics on Riemannian Manifolds** (2011) <br /> *Xavier Pennec*](https://hal.inria.fr/inria-00614994/document)
-* [**Geometric Statistics for Computational Anatomy** (2016) <br /> *Nina Miolane, PhD Thesis*](https://tel.archives-ouvertes.fr/tel-01411886v2/document)
-* [**Maximum Likelihood Estimators on Manifolds** (2017) <br /> *Hatem Hajri, Salem Said, Yannick Berthoumieu*](https://hal.archives-ouvertes.fr/hal-01500284/document)
+* [**Intrinsic Statistics on Riemannian Manifolds** (2011) <br /> *Xavier Pennec* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />](https://hal.inria.fr/inria-00614994/document)
+* [**Geometric Statistics for Computational Anatomy** (2016) <br /> *Nina Miolane, PhD Thesis* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />](https://tel.archives-ouvertes.fr/tel-01411886v2/document)
+* [**Maximum Likelihood Estimators on Manifolds** (2017) <br /> *Hatem Hajri, Salem Said, Yannick Berthoumieu* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />](https://hal.archives-ouvertes.fr/hal-01500284/document)
 
 <a name="disentangling" />
 
 #### Dimensionality Reduction and Disentangling
 
 * [**Hyperspherical Variational Auto-Encoders** (2018) <br /> *Tim R. Davidson, Luca Falorsi, Nicola De Cao, Thomas Kipf, Jakub M. Tomczak* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://drive.google.com/file/d/1tGGqozCte2XmdzIETYu33LFSGgMvK774/view?usp=sharing)
-
 * [**Addressing the Topological Defects of Disentanglement via Distributed Operators** (2021)  <br /> *Diane Bouchacourt, Mark Ibrahim, Stéphane Deny* <br /> <img src="https://img.shields.io/badge/-topology-FFD3B5" />
 ](https://arxiv.org/abs/2102.05623v1) 
-
 * [**Visualizing Riemannian Data with Rie-SNE** (2022) <br /> *Andri Bergsson and Soren Hauberg*](https://arxiv.org/pdf/2203.09253.pdf)
 * [**Regularized Autoencoders for Isometric Representation Learning** (2022)  <br /> *Yonghyeon Lee, Sangwoong Yoon, Minjun Son, Frank C. Park* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />
 ](https://drive.google.com/file/d/1XFdHcPMFDFF-7H10LwLg7N_6d0_cIJmE/view)
@@ -332,14 +325,10 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**An unsupervised algorithm for learning Lie group transformations.** (2010) <br /> Jascha Sohl-Dickstein, Ching Ming Wang, Bruno Olshausen <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://arxiv.org/pdf/1001.1027.pdf)
 * [**Learning the irreducible representations of commutative Lie groups** (2014) <br /> *Taco Cohen & Max Welling* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](http://proceedings.mlr.press/v32/cohen14.pdf)
 * [**Group equivariant convolutional networks** (2016) <br /> *Taco Cohen & Max Welling* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://drive.google.com/file/d/10JqJrqRysF3c4_ruLe8ad0ijFdVlpjdp/view?usp=sharing)
-
 * [**Spherical CNNs** (2018) <br /> *Taco Cohen, Mario Geiger, Jonas Kohler, & Max Welling* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://drive.google.com/file/d/186hhjJl_fQwEM9_lWpU6Dvac-S1ZTa3A/view?usp=sharing)
-
 * [**Clebsch–gordan nets: a fully fourier space spherical convolutional neural network** (2018) <br /> *Risi Kondor, Zhen Lin, Shubhendu Trivedi* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://drive.google.com/file/d/1-NuvFpo0VkY-NDbt89oGDroz23yQ9nhL/view?usp=sharing)
 * [**Tensor field networks: Rotation-and translation-equivariant neural networks for 3d point clouds** (2018) <br /> *Nathaniel Thomas, Tess Smidt, Steven Kearnes, Lusann Yang, Li Li, Kai Kohlhoff, Patrick Riley* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://drive.google.com/file/d/1nwbEb9FIJ04aSX40BIZtAxH5ujTQ7Lfv/view?usp=sharing)
-
 * [**A General Theory of Equivariant CNNs on Homogeneous Spaces** (2019)<br /> *Taco Cohen, Mario Geiger, & Maurice Weiler* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://drive.google.com/file/d/1Vd6ID_HsY9PTHFqCEmPv4iTDlLsoBqVr/view?usp=sharing)
-
 * [**Generalizing convolutional neural networks for equivariance to Lie groups on arbitrary continuous data** (2020) <br /> *Marc Finzi, Samuel Stanton, Pavel Izmailov, Andrew Gordon Wilson* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://drive.google.com/file/d/1Xzvq2s7Oj3XXftHFcvrI5IhZklS7tt7L/view?usp=sharing)
 
 
