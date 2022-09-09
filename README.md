@@ -106,19 +106,20 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 #### Textbooks
 
+* [**Group Theoretical Methods in Machine Learning** (2008) <br /> *Risi Kondor, PhD Thesis*](http://www.cs.columbia.edu/~jebara/papers/thesisKondor.pdf)
 * [**Pattern Theory: The Stochastic Analysis of Real-World Signals** (2010) <br /> *David Mumford and Agnès Desolneux*](https://www.routledge.com/Pattern-Theory-The-Stochastic-Analysis-of-Real-World-Signals/Mumford-Desolneux/p/book/9781568815794)
 * [**Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges** (2021) <br /> _Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković_](https://arxiv.org/abs/2104.13478)
-* [**Group Theoretical Methods in Machine Learning** (2008) <br /> *Risi Kondor, PhD Thesis*](http://www.cs.columbia.edu/~jebara/papers/thesisKondor.pdf)
 * [**Equivariant Convolutional Networks** (2021) <br /> *Taco Cohen, PhD Thesis*](https://pure.uva.nl/ws/files/60770359/Thesis.pdf)
 * [**An Introduction to Optimization on Smooth Manifolds** (2022) <br /> *Nicolas Boumal*](https://sma.epfl.ch/~nboumal/book/IntroOptimManifolds_Boumal_2022.pdf)
 
 #### Courses, Lectures, and Videos
 
 * [**Geometric Deep Learning** (2nd Edition) <br />  *Michael Bronstein, Joan Bruna, Taco Cohen, Petar Veličković @ AMMI*](https://www.youtube.com/watch?v=5c_-KX1sRDQ&list=PLn2-dEmQeTfSLXW8yXP4q_Ii58wFdxb3C)
+* [**CSC 2547: Current Topics in Machine Learning Methods in 3D and Geometric Deep Learning** (2021) <br /> *Animesh Garg @ University of Toronto*](https://youtube.com/playlist?list=PLki3HkfgNEsLrbI_r2iqNogmL5DW6HJXF)
 * [**An Introduction to Group-Equivariant Deep Learning** (2022) <br /> *Erik Bekkers @ UvA*](https://uvadl2c.github.io/)
 * [**Italian Summer School on Geometric Deep Learning** (2022) <br /> *Cristian Bodnar, Michael Bronstein, Francesco Di Giovanni, Pim de Haan, Maurice Weiler*](https://www.youtube.com/playlist?list=PLn2-dEmQeTfRQXLKf9Fmlk3HmReGg3YZZ)
 * [**COMP760: Geometry and Generative Models** (2022) <br /> *Joey Bose and Prakash Panangaden @ MILA*](https://joeybose.github.io/Blog/GenCourse)
-* [**CSC 2547: Current Topics in Machine Learning Methods in 3D and Geometric Deep Learning** (2021) <br /> *Animesh Garg @ University of Toronto*](https://youtube.com/playlist?list=PLki3HkfgNEsLrbI_r2iqNogmL5DW6HJXF)
+
 
 #### Notebooks and Blogposts
 * [**Geometric foundations of Deep Learning** <br /> *Michael Bronstein, Joan Bruna, Taco Cohen, and Petar Veličković*](https://towardsdatascience.com/geometric-foundations-of-deep-learning-94cdd45b451d)
@@ -192,8 +193,8 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 # Conferences and Workshops
 
 * [**NeurIPS Workshop on Symmetry and Geometry in Neural Representations** (2022)](https://neurreps.org)
-* [**ICML Workshop on Topology, Algebra and Geometry in Machine Learning** (2022](https://www.tagds.com/events/conferences/tag-in-machine-learning)
-* [**ICLR Workshop on Geometrical and Topological Representation Learning** (2022](https://gt-rl.github.io/)
+* [**ICML Workshop on Topology, Algebra and Geometry in Machine Learning** (2022)](https://www.tagds.com/events/conferences/tag-in-machine-learning)
+* [**ICLR Workshop on Geometrical and Topological Representation Learning** (2022)](https://gt-rl.github.io/)
 * [**Workshop on Symmetry, Invariance and Neural Representations @ The Bernstein Conference** (2022)](https://bernstein-network.de/bernstein-conference/program/satellite-workshops/symmetry-invariance-and-neural-representations/)
 
 <br /><br />
@@ -224,7 +225,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Brain graphs: graphical models of the human brain connectome.** (2011) <br /> *Edward T. Bullmore and Danielle S. Bassett* <br /><img src="https://img.shields.io/badge/-graphs-FFAAA6" /> <img src="https://img.shields.io/badge/-topology-FFD3B5" />](https://d1wqtxts1xzle7.cloudfront.net/42018283/Brain_Graphs_Graphical_Models_of_the_Hum20160203-31224-180dve-with-cover-page-v2.pdf?Expires=1662704183&Signature=Nt-dTzPkCcgzQx5TjESBkHnkJ-hU6jPD4KIrng-AX9ODJtKd-Vrwj7ZjMnd-JU~FyThnlxoBepaoDgPpIn-gfB6PGet40Vwvmvar1ASW5ZV9-lRWsr-wxGUugtH2-bCOJJuJcNFO3JJZsjMgzvfYQYxrtA0OiWalcTGXyK-6uoovjo09rJIUXZvvp6xkk3irVOh5ROr4KJkaVYLdlkf5oSvwGDyWrNxT2kHylFE3LLiLFcseQrbaskH9vzeUL~FzM36VYZk6onS4LHXje1OtoLDSdtXDCPRwUcOx~Z1Ic9b9xLpvt~~g5E4iqoSzgA-~BFgpE4WWmXqzhfloWu6dpw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 * [**What can topology tell us about the neural code?** (2017) <br /> *Carina Curto* <br /><img src="https://img.shields.io/badge/-topology-FFD3B5" />
 ](https://www.ams.org/journals/bull/2017-54-01/S0273-0979-2016-01554-0/S0273-0979-2016-01554-0.pdf)                                                                
-* [**Network Neuroscience** (2017) <br /> *Danielle S. Bassett, and Olaf Sporns.* <br /><img src="https://img.shields.io/badge/-graphs-FFAAA6" />](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5485642/)
+* [**Network Neuroscience** (2017) <br /> *Danielle S. Bassett, and Olaf Sporns.* <br /><img src="https://img.shields.io/badge/-graphs-FFAAA6" /> <img src="https://img.shields.io/badge/-topology-FFD3B5" />](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5485642/)
 * [**Navigating the neural space in search of the neural code.** (2017) <br /> *Jazayeri, M., & Afraz, A.*](https://www.sciencedirect.com/science/article/pii/S0896627317301034)
 * [**A theory of multineuronal dimensionality, dynamics and measurement.** (2017) <br /> *Gao, P., Trautmann, E., Yu, B., Santhanam, G., Ryu, S., Shenoy, K., & Ganguli, S.*](https://www.biorxiv.org/content/biorxiv/early/2017/11/05/214262.full.pdf)
 * [**Computation through neural population dynamics.** (2020) <br /> *Saurabh Vyas, Matthew D. Golub, David Sussillo, and Krishna V. Shenoy*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7402639/)
