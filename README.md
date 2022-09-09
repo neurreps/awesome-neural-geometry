@@ -230,8 +230,10 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 <a name="theory" />
                 
 #### Theory
+                                                                                                                                         
 * [**Navigating the neural space in search of the neural code.** (2017) <br /> *Jazayeri, M., & Afraz, A.*](https://www.sciencedirect.com/science/article/pii/S0896627317301034)
 * [**A theory of multineuronal dimensionality, dynamics and measurement.** (2017) <br /> *Gao, P., Trautmann, E., Yu, B., Santhanam, G., Ryu, S., Shenoy, K., & Ganguli, S.*](https://www.biorxiv.org/content/biorxiv/early/2017/11/05/214262.full.pdf)
+* [**Computation through neural population dynamics.** (2020) <br /> *Saurabh Vyas, Matthew D. Golub, David Sussillo, and Krishna V. Shenoy*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7402639/)
 
 <a name="vision" />
 
@@ -244,10 +246,10 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Geometric visual hallucinations, Euclidean symmetry and the functional architecture of striate cortex** (2001)  <br /> *Paul C. Bressloff, Jack D. Cowan, Martin Golubitsky, Peter J. Thomas and Matthew C. Wiener*](https://royalsocietypublishing.org/doi/10.1098/rstb.2000.0769) 
 * [**The neurogeometry of pinwheels as a sub-Riemannian contact structure** (2003)  <br /> *Jean Petitot* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />](https://www.sciencedirect.com/science/article/abs/pii/S092842570300072X?casa_token=0mRpfL4cgoQAAAAA:qqV8dNcjLcg7xS1XScDlk20agI3Aa0d_vzvihKM5seCNU-PVuMzTEiI8xaAeTJH5QATLFFo) 
 * [**Parsimony, Exhaustivity and Balanced Detection in Neocortex** (2015)  <br /> *Alberto Romagnoni, Jérôme Ribot, Daniel Bennequin, Jonathan Touboul*](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004623) 
+* [**High-dimensional geometry of population responses in visual cortex.** (2019) <br /> *Stringer, Carsen, Marius Pachitariu, Nicholas Steinmetz, Matteo Carandini, and Kenneth D. Harris.*](https://www.nature.com/articles/s41586-019-1346-5)
 * [**Predicting the retinotopic organization of human visual cortex from anatomy using geometric deep learning** (2021)  <br /> *Fernanda L. Ribeiro, Steffen Bollmann, Alexander M. Puckett*](https://www.sciencedirect.com/science/article/pii/S1053811921008971)
 * [**Primary visual cortex straightens natural video trajectories** (2021)  <br /> *Olivier J. Hénaff, Yoon Bai, Julie A. Charlton, Ian Nauhaus, Eero P. Simoncelli & Robbe L. T. Goris*](https://www.nature.com/articles/s41467-021-25939-z) 
 * [**Unsupervised deep learning identifies semantic disentanglement in single inferotemporal face patch neurons.** (2021) <br /> *Higgins, I., Chang, L., Langston, V., Hassabis, D., Summerfield, C., Tsao, D., & Botvinick, M.*](https://www.nature.com/articles/s41467-021-26751-5)
-
 
 
 <a name="motor" />
@@ -255,6 +257,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 #### Motor Control
 
 * [**Neural manifolds for the control of movement** (2017) <br /> *Juan Gallego, Matthew Perich, Lee Miller, Sara Solla*](https://www.sciencedirect.com/science/article/pii/S0896627317304634)
+* [**Accurate estimation of neural population dynamics without spike sorting.** (2019) <br /> *Eric M. Trautmann, Sergey D. Stavisky, Subhaneil Lahiri, Katherine C. Ames, Matthew T. Kaufman, Daniel J. O’Shea, Saurabh Vyas et al.*](https://www.sciencedirect.com/science/article/pii/S0896627319304283)
 
 
 <a name="navigation" />
@@ -277,11 +280,12 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 #### Methods
 * [**Clique topology reveals intrinsic geometric structure in neural correlations.** (2015) <br /> *Chad Giusti, Eva Pastalkova, Carina Curto, and Vladimir Itskov* <br /><img src="https://img.shields.io/badge/-topology-FFD3B5" />](https://www.pnas.org/doi/full/10.1073/pnas.1506407112)
+* [**Two’s company, three (or more) is a simplex.** (2016) <br /> *Chad Giusti, Robert Ghrist, and Danielle S. Bassett.* <br /><img src="https://img.shields.io/badge/-topology-FFD3B5" />](https://link.springer.com/article/10.1007/s10827-016-0608-6)
 * [**Inferring single-trial neural population dynamics using sequential auto-encoders.** (2018) <br /> *Pandarinath, C., O’Shea, D. J., Collins, J., Jozefowicz, R., Stavisky, S. D., Kao, J. C., ... & Sussillo, D.*](https://www.nature.com/articles/s41592-018-0109-9)
 * [**Manifold GPLVMs for discovering non-Euclidean latent structure in neural data** (2020) <br /> *Kristopher Jensen, Ta-Chu Kao, Marco Tripodi, and Guillaume Hennequin* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://proceedings.neurips.cc/paper/2020/file/fedc604da8b0f9af74b6cfc0fab2163c-Paper.pdf)
 * [**Interpreting neural computations by examining intrinsic and embedding dimensionality of neural activity** (2021) <br /> *Mehrdad Jazayeri, Srdjan Ostojic*](https://arxiv.org/abs/2107.04084) 
 * [**Generalized shape metrics on neural representations.** (2021) <br /> *Williams, A. H., Kunz, E., Kornblith, S., & Linderman, S.* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />](https://proceedings.neurips.cc/paper/2021/file/252a3dbaeb32e7690242ad3b556e626b-Paper.pdf)
-
+                                                                                                    
 <br />
 
 <a name="gdl" />
