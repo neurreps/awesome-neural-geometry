@@ -280,6 +280,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 #### Methods
 
+* [**Inferring single-trial neural population dynamics using sequential auto-encoders.** (2018) <br /> *Pandarinath, C., O’Shea, D. J., Collins, J., Jozefowicz, R., Stavisky, S. D., Kao, J. C., ... & Sussillo, D.*](https://www.nature.com/articles/s41592-018-0109-9)
 * [**Manifold GPLVMs for discovering non-Euclidean latent structure in neural data** (2020) <br /> *Kristopher Jensen, Ta-Chu Kao, Marco Tripodi, and Guillaume Hennequin* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://proceedings.neurips.cc/paper/2020/file/fedc604da8b0f9af74b6cfc0fab2163c-Paper.pdf)
 * [**Interpreting neural computations by examining intrinsic and embedding dimensionality of neural activity** (2021) <br /> *Mehrdad Jazayeri, Srdjan Ostojic*](https://arxiv.org/abs/2107.04084) 
 
