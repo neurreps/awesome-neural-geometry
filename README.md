@@ -216,6 +216,8 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 ### Perspectives
 
+* [**What can topology tell us about the neural code?** (2017) <br /> *Carina Curto* <br /><img src="https://img.shields.io/badge/-topology-FFD3B5" />
+](https://www.ams.org/journals/bull/2017-54-01/S0273-0979-2016-01554-0/S0273-0979-2016-01554-0.pdf)
 * [**Symmetry-based representations for artificial and biological general intelligence** (2022)  <br /> *Irina Higgins, Sébastien Racanière, Danilo Rezende.* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://www.frontiersin.org/articles/10.3389/fncom.2022.836498/full)
 
 
@@ -274,7 +276,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 <a name="methods" />
 
 #### Methods
-
+* [**Clique topology reveals intrinsic geometric structure in neural correlations.** (2015) <br /> *Chad Giusti, Eva Pastalkova, Carina Curto, and Vladimir Itskov* <br /><img src="https://img.shields.io/badge/-topology-FFD3B5" />](https://www.pnas.org/doi/full/10.1073/pnas.1506407112)
 * [**Inferring single-trial neural population dynamics using sequential auto-encoders.** (2018) <br /> *Pandarinath, C., O’Shea, D. J., Collins, J., Jozefowicz, R., Stavisky, S. D., Kao, J. C., ... & Sussillo, D.*](https://www.nature.com/articles/s41592-018-0109-9)
 * [**Manifold GPLVMs for discovering non-Euclidean latent structure in neural data** (2020) <br /> *Kristopher Jensen, Ta-Chu Kao, Marco Tripodi, and Guillaume Hennequin* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://proceedings.neurips.cc/paper/2020/file/fedc604da8b0f9af74b6cfc0fab2163c-Paper.pdf)
 * [**Interpreting neural computations by examining intrinsic and embedding dimensionality of neural activity** (2021) <br /> *Mehrdad Jazayeri, Srdjan Ostojic*](https://arxiv.org/abs/2107.04084) 
