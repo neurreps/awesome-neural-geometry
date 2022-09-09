@@ -26,7 +26,6 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 - [**Software Libraries**](#software)
 - [**Conferences and Workshops**](#conferences)
 - [**Research Papers**](#research)
-  - [Perspectives](#perspectives)
   - [Neuroscience](#neuro) 
     - [Theory](#theory)
     - [Vision](#vision)
@@ -209,17 +208,6 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 <img src="https://img.shields.io/badge/-topology-FFD3B5" />
 <img src="https://img.shields.io/badge/-graphs-FFAAA6"" />
 
-<br />
-
-
-<a name="perspectives" />
-
-### Perspectives
-
-* [**What can topology tell us about the neural code?** (2017) <br /> *Carina Curto* <br /><img src="https://img.shields.io/badge/-topology-FFD3B5" />
-](https://www.ams.org/journals/bull/2017-54-01/S0273-0979-2016-01554-0/S0273-0979-2016-01554-0.pdf)
-* [**Symmetry-based representations for artificial and biological general intelligence** (2022)  <br /> *Irina Higgins, Sébastien Racanière, Danilo Rezende.* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://www.frontiersin.org/articles/10.3389/fncom.2022.836498/full)
-
 
 <br />
 
@@ -230,10 +218,13 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 <a name="theory" />
                 
 #### Theory
-                                                                                                                                         
+
+* [**What can topology tell us about the neural code?** (2017) <br /> *Carina Curto* <br /><img src="https://img.shields.io/badge/-topology-FFD3B5" />
+](https://www.ams.org/journals/bull/2017-54-01/S0273-0979-2016-01554-0/S0273-0979-2016-01554-0.pdf)                                                                                                                                     
 * [**Navigating the neural space in search of the neural code.** (2017) <br /> *Jazayeri, M., & Afraz, A.*](https://www.sciencedirect.com/science/article/pii/S0896627317301034)
 * [**A theory of multineuronal dimensionality, dynamics and measurement.** (2017) <br /> *Gao, P., Trautmann, E., Yu, B., Santhanam, G., Ryu, S., Shenoy, K., & Ganguli, S.*](https://www.biorxiv.org/content/biorxiv/early/2017/11/05/214262.full.pdf)
 * [**Computation through neural population dynamics.** (2020) <br /> *Saurabh Vyas, Matthew D. Golub, David Sussillo, and Krishna V. Shenoy*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7402639/)
+* [**Symmetry-based representations for artificial and biological general intelligence** (2022)  <br /> *Irina Higgins, Sébastien Racanière, Danilo Rezende.* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://www.frontiersin.org/articles/10.3389/fncom.2022.836498/full)
 
 <a name="vision" />
 
