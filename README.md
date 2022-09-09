@@ -106,6 +106,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 #### Textbooks
 
+* [**Pattern Theory: The Stochastic Analysis of Real-World Signals** (2010) <br /> *David Mumford and Agnès Desolneux*](https://www.routledge.com/Pattern-Theory-The-Stochastic-Analysis-of-Real-World-Signals/Mumford-Desolneux/p/book/9781568815794)
 * [**Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges** (2021) <br /> _Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković_](https://arxiv.org/abs/2104.13478)
 * [**Group Theoretical Methods in Machine Learning** (2008) <br /> *Risi Kondor, PhD Thesis*](http://www.cs.columbia.edu/~jebara/papers/thesisKondor.pdf)
 * [**Equivariant Convolutional Networks** (2021) <br /> *Taco Cohen, PhD Thesis*](https://pure.uva.nl/ws/files/60770359/Thesis.pdf)
@@ -292,6 +293,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 <a name="theory" />
 
 #### Theory
+* [**On the Local Behavior of Spaces of Natural Images** (2006) <br /> *Gunnar Carlsson, Tigran Ishkhanov, Vin De Silva, and Afra Zomorodian* <br /><img src="https://img.shields.io/badge/-topology-FFD3B5" />](https://link.springer.com/content/pdf/10.1007/s11263-007-0056-x.pdf)
 * [**The Riemannian Geometry of Deep Generative Models** (2018) <br /> *Hang Shao, Abhishek Kumar, P. Thomas Fletcher* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />](https://drive.google.com/file/d/1Nxq-lLG1txHy6cYjOM3fMM3D5yIZx6hd/view?usp=sharing)
 * [**Universal Approximation Theorems for Differentiable Geometric Deep Learning** (2022)  <br /> *Anastasis Kratsios, L´eonie Papon* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />
 ](https://www.jmlr.org/papers/volume23/21-0716/21-0716.pdf)
