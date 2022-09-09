@@ -37,6 +37,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
     - [Theory](#theory)
     - [Estimation on Manifolds](#estimation)
     - [Dimensionality Reduction and Disentangling](#disentangling)
+    - [Deep Network Interpretability](#interpretability)
     - [Group-Invariant and -Equivariant Representation Learning](#equivariance)
     
 
@@ -220,11 +221,13 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 #### Theory
 
 * [**What can topology tell us about the neural code?** (2017) <br /> *Carina Curto* <br /><img src="https://img.shields.io/badge/-topology-FFD3B5" />
-](https://www.ams.org/journals/bull/2017-54-01/S0273-0979-2016-01554-0/S0273-0979-2016-01554-0.pdf)                                                                                                                                     
+](https://www.ams.org/journals/bull/2017-54-01/S0273-0979-2016-01554-0/S0273-0979-2016-01554-0.pdf)                                                                
 * [**Navigating the neural space in search of the neural code.** (2017) <br /> *Jazayeri, M., & Afraz, A.*](https://www.sciencedirect.com/science/article/pii/S0896627317301034)
 * [**A theory of multineuronal dimensionality, dynamics and measurement.** (2017) <br /> *Gao, P., Trautmann, E., Yu, B., Santhanam, G., Ryu, S., Shenoy, K., & Ganguli, S.*](https://www.biorxiv.org/content/biorxiv/early/2017/11/05/214262.full.pdf)
 * [**Computation through neural population dynamics.** (2020) <br /> *Saurabh Vyas, Matthew D. Golub, David Sussillo, and Krishna V. Shenoy*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7402639/)
+* [**Neural population geometry: An approach for understanding biological and artificial neural networks.** (2021) <br /> *SueYeon Chung, and L. F. Abbott.*](https://www.sciencedirect.com/science/article/pii/S0959438821001227)
 * [**Symmetry-based representations for artificial and biological general intelligence** (2022)  <br /> *Irina Higgins, Sébastien Racanière, Danilo Rezende.* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://www.frontiersin.org/articles/10.3389/fncom.2022.836498/full)
+
 
 <a name="vision" />
 
@@ -310,7 +313,13 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Regularized Autoencoders for Isometric Representation Learning** (2022)  <br /> *Yonghyeon Lee, Sangwoong Yoon, Minjun Son, Frank C. Park* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />
 ](https://drive.google.com/file/d/1XFdHcPMFDFF-7H10LwLg7N_6d0_cIJmE/view)
 
+<a name="interpretability" />
 
+#### Deep Network Interpretability
+
+* [**Separability and geometry of object manifolds in deep neural networks.** (2020) <br /> *Uri Cohen, SueYeon Chung, Daniel D. Lee, and Haim Sompolinsky.*](https://www.nature.com/articles/s41467-020-14578-5)
+* [**Naturally occurring equivariance in neural networks.** (2020) <br /> *Chris Olah, Nick Cammarata, Chelsea Voss, Ludwig Schubert, and Gabriel Goh.*](https://distill.pub/2020/circuits/equivariance/)
+                                                                                                                                   
 <a name="equivariance" />
 
 #### Group-Invariant and -Equivariant Representation Learning
