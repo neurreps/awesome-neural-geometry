@@ -27,7 +27,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 - [**Conferences and Workshops**](#conferences)
 - [**Research Papers**](#research)
   - [Neuroscience](#neuro) 
-    - [Theory](#theory)
+    - [Theory and Perspectives](#theory)
     - [Vision](#vision)
     - [Motor Control](#motor)
     - [Spatial Navigation](#navigation)
@@ -218,7 +218,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
                
 <a name="theory" />
                 
-#### Theory
+#### Theory and Perspectives
 
 * [**Brain graphs: graphical models of the human brain connectome.** (2011) <br /> *Edward T. Bullmore and Danielle S. Bassett* <br /><img src="https://img.shields.io/badge/-graphs-FFAAA6" /> <img src="https://img.shields.io/badge/-topology-FFD3B5" />](https://d1wqtxts1xzle7.cloudfront.net/42018283/Brain_Graphs_Graphical_Models_of_the_Hum20160203-31224-180dve-with-cover-page-v2.pdf?Expires=1662704183&Signature=Nt-dTzPkCcgzQx5TjESBkHnkJ-hU6jPD4KIrng-AX9ODJtKd-Vrwj7ZjMnd-JU~FyThnlxoBepaoDgPpIn-gfB6PGet40Vwvmvar1ASW5ZV9-lRWsr-wxGUugtH2-bCOJJuJcNFO3JJZsjMgzvfYQYxrtA0OiWalcTGXyK-6uoovjo09rJIUXZvvp6xkk3irVOh5ROr4KJkaVYLdlkf5oSvwGDyWrNxT2kHylFE3LLiLFcseQrbaskH9vzeUL~FzM36VYZk6onS4LHXje1OtoLDSdtXDCPRwUcOx~Z1Ic9b9xLpvt~~g5E4iqoSzgA-~BFgpE4WWmXqzhfloWu6dpw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 * [**What can topology tell us about the neural code?** (2017) <br /> *Carina Curto* <br /><img src="https://img.shields.io/badge/-topology-FFD3B5" />
