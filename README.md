@@ -237,7 +237,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 #### Vision
 
-* [**Mathematical analysis of binocular vision** (1947)  <br /> *Rudolf Karl Luneburg*  <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />]([https://www.sciencedirect.com/science/article/abs/pii/0022249666900058](https://psycnet.apa.org/record/1948-00132-000)) 
+* [**Mathematical analysis of binocular vision** (1947)  <br /> *Rudolf Karl Luneburg*  <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />](https://psycnet.apa.org/record/1948-00132-000) 
 * [**The Lie algebra of visual perception** (1966)  <br /> *William C.Hoffman*  <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://www.sciencedirect.com/science/article/abs/pii/0022249666900058) 
 * [**Representation of local geometry in the visual system** (1987)  <br /> *Jan Koenderink*](https://link.springer.com/article/10.1007/BF00318371) 
 * [**Operational Significance of Receptive Fields Assemblies** (1989)  <br /> *Jan Koenderink*](https://link.springer.com/content/pdf/10.1007/BF00364136.pdf) 
