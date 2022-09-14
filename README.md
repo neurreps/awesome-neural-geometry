@@ -95,7 +95,8 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 #### Courses, Lectures, and Videos
 * [**Computational Algebraic Topology** <br /> Vidit Nanda](https://youtube.com/playlist?list=PLnLAqsCN_2ke8_EUd_KoJsLkPO0BKrrc6)
-
+#### Textbooks, Notes
+* [**Elementary Applied Topology** <br /> Robert Ghrist](https://www2.math.upenn.edu/~ghrist/notes.html)
 <br />
 
 
@@ -298,6 +299,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 #### Theory
 * [**On the Local Behavior of Spaces of Natural Images** (2006) <br /> *Gunnar Carlsson, Tigran Ishkhanov, Vin De Silva, and Afra Zomorodian* <br /><img src="https://img.shields.io/badge/-topology-FFD3B5" />](https://link.springer.com/content/pdf/10.1007/s11263-007-0056-x.pdf)
 * [**The Riemannian Geometry of Deep Generative Models** (2018) <br /> *Hang Shao, Abhishek Kumar, P. Thomas Fletcher* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />](https://drive.google.com/file/d/1Nxq-lLG1txHy6cYjOM3fMM3D5yIZx6hd/view?usp=sharing)
+* [**The Geometry of Deep Generative Image Models and its Applications** (2021) <br /> *Binxu Wang, Carlos R. Ponce* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />](https://arxiv.org/abs/2101.06006)
 * [**Universal Approximation Theorems for Differentiable Geometric Deep Learning** (2022)  <br /> *Anastasis Kratsios, L´eonie Papon* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />
 ](https://www.jmlr.org/papers/volume23/21-0716/21-0716.pdf)
 * [**A Statistical Manifold Framework for Point Cloud Data** (2022)  <br /> *Yonghyeon Lee, Seungyeon Kim, Jinwon Choi, Frank C. Park* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />
@@ -327,6 +329,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 * [**Separability and geometry of object manifolds in deep neural networks.** (2020) <br /> *Uri Cohen, SueYeon Chung, Daniel D. Lee, and Haim Sompolinsky.*](https://www.nature.com/articles/s41467-020-14578-5)
 * [**Naturally occurring equivariance in neural networks.** (2020) <br /> *Chris Olah, Nick Cammarata, Chelsea Voss, Ludwig Schubert, and Gabriel Goh.*](https://distill.pub/2020/circuits/equivariance/)
+* [**The Geometry of Deep Generative Image Models and its Applications** (2021) <br /> *Binxu Wang, Carlos R. Ponce* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />](https://arxiv.org/abs/2101.06006)
                                                                                                                                    
 <a name="equivariance" />
 
