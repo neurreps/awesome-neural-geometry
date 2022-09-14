@@ -179,7 +179,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**equivariant-MLP**](https://github.com/mfinzi/equivariant-MLP)
   * Construct equivariant multilayer perceptrons for arbitrary matrix groups
 * [**SHTOOLS**](https://github.com/SHTOOLS/SHTOOLS)
-  * Python library for computations involving spherical harmoics
+  * Python library for computations involving spherical harmonics
 * [**LieConv**](https://github.com/mfinzi/LieConv)
   * Generalizing convolutional neural networks for equivariance to Lie groups on arbitrary continuous data
 * [**Open Neuroscience**](https://open-neuroscience.com/)
