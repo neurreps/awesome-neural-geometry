@@ -94,7 +94,11 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 ### Topology
 
 #### Courses, Lectures, and Videos
+
 * [**Computational Algebraic Topology** <br /> Vidit Nanda](https://youtube.com/playlist?list=PLnLAqsCN_2ke8_EUd_KoJsLkPO0BKrrc6)
+
+* [**Topological Data Analysis for Machine Learning** <br /> Bastian Rieck](https://www.youtube.com/playlist?list=PLjFHG9gPsecYteKmbVbPhjiz2jHRtKT20)
+
 #### Textbooks, Notes
 * [**Elementary Applied Topology** <br /> Robert Ghrist](https://www2.math.upenn.edu/~ghrist/notes.html)
 <br />
