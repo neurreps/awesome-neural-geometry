@@ -17,9 +17,8 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 
 - [**Educational Resources**](#resources)
-  - [Group Theory](#grouptheory)
+  - [Abstract Algebra + Group Theory](#grouptheory)
   - [Differential Geometry + Lie Groups](#diffgeo)
-  - [Algebra](#algebra)
   - [Topology](#topology)
   - [Geometric Machine Learning](#gdl)
   - [Computational Neuroscience](#neuro-resources)
@@ -50,15 +49,20 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 <a name="grouptheory" />
 
-### Group Theory
+### Abstract Algebra + Group Theory
 
 #### Textbooks & Notes
 * [**Group Theory: A Primer** (2019) <br /> *Luciano da Fontoura Costa*](https://www.researchgate.net/profile/Luciano-Da-F-Costa/publication/334126746_Group_Theory_A_Primer_CDT-11/links/5da83b2f299bf1c1e4c8ffb4/Group-Theory-A-Primer-CDT-11.pdf)
+* [**Tensors in Computations** (2021) <br /> *Lek-Heng Lim*](https://arxiv.org/pdf/2106.08090.pdf)
+* [**Aspects of Harmonic Analysis and Representation Theory** (2021) <br /> *Gallier & Quaintance*](https://drive.google.com/file/d/1eK8B1UpTJTnCXV6DL4-blDaKo6XQk28r/view?usp=sharing)
+* [**Representation Theory of Finite Groups** (2012) <br /> *Bemjamin Steinberg*](https://drive.google.com/file/d/1fe1qnVAkCHEY1hn9sOvcA6Ocww66fMmP/view?usp=sharing)
 
 #### Courses, Lectures, and Videos
 * [**Essence of Group Theory**  **Beginner-Friendly* <br /> *Mathemaniac*](https://youtube.com/playlist?list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO)
 * [**Abstract Algebra** **Beginner-Friendly* <br /> *Socratica*](https://youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
 * [**Euler's formula with introductory group theory** **Intuition Building* <br /> *3blue1brown*](https://www.youtube.com/watch?v=mvmuCPvRoWQ&t=648s&ab_channel=3Blue1Brown)
+* [**What is a Tensor?** <br /> *XylyXylyX*](https://youtube.com/playlist?list=PLRlVmXqzHjUQARA37r4Qw3SHPqVXgqO6c)
+* [**Representation Theory** <br /> *Math Doctor Bob*](https://youtube.com/playlist?list=PL57457844458A5A1F)
 
 <br />
 
@@ -86,20 +90,6 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Manifolds: A Gentle Introduction** <br /> *Brian Keng*](https://bjlkeng.github.io/posts/manifolds/)
 
 
-
-
-<br />
-
-### Algebra
-
-#### Textbooks
-* [**Tensors in Computations** (2021) <br /> *Lek-Heng Lim*](https://arxiv.org/pdf/2106.08090.pdf)
-* [**Aspects of Harmonic Analysis and Representation Theory** (2021) <br /> *Gallier & Quaintance*](https://drive.google.com/file/d/1eK8B1UpTJTnCXV6DL4-blDaKo6XQk28r/view?usp=sharing)
-* [**Representation Theory of Finite Groups** (2012) <br /> *Bemjamin Steinberg*](https://drive.google.com/file/d/1fe1qnVAkCHEY1hn9sOvcA6Ocww66fMmP/view?usp=sharing)
-
-#### Courses, Lectures, and Videos
-* [**What is a Tensor?** <br /> *XylyXylyX*](https://youtube.com/playlist?list=PLRlVmXqzHjUQARA37r4Qw3SHPqVXgqO6c)
-* [**Representation Theory** <br /> *Math Doctor Bob*](https://youtube.com/playlist?list=PL57457844458A5A1F)
 
 
 <br />
