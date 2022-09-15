@@ -17,6 +17,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 
 - [**Educational Resources**](#resources)
+  - [Group Theory](#grouptheory)
   - [Differential Geometry + Lie Groups](#diffgeo)
   - [Algebra](#algebra)
   - [Topology](#topology)
@@ -47,12 +48,26 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 # Educational Resources
 
+<a name="grouptheory" />
+
+### Group Theory
+
+#### Textbooks & Notes
+* [**Group Theory: A Primer** (2019) <br /> *Luciano da Fontoura Costa*](https://www.researchgate.net/profile/Luciano-Da-F-Costa/publication/334126746_Group_Theory_A_Primer_CDT-11/links/5da83b2f299bf1c1e4c8ffb4/Group-Theory-A-Primer-CDT-11.pdf)
+
+#### Courses, Lectures, and Videos
+* [**Essence of Group Theory**  **Beginner-Friendly* <br /> *Mathemaniac*](https://youtube.com/playlist?list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO)
+* [**Abstract Algebra** **Beginner-Friendly* <br /> *Socratica*](https://youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+* [**Euler's formula with introductory group theory** **Intuition Building* <br /> *3blue1brown*](https://www.youtube.com/watch?v=mvmuCPvRoWQ&t=648s&ab_channel=3Blue1Brown)
+
+<br />
+
 
 <a name="diffgeo" />
 
 ### Differential Geometry + Lie Groups
 
-#### Textbooks 
+#### Textbooks & Notes
 * [**Lie Groups, Lie Algebras, and Representations** (2003) <br /> *Brian C. Hall*](https://link.springer.com/book/10.1007/978-3-319-13467-3)
 * [**Differential Geometry and Lie Groups: A Computational Perspective** (2020) <br /> *Gallier & Quaintance*](https://link.springer.com/book/10.1007/978-3-030-46040-2)
 
@@ -62,9 +77,8 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**What is a Manifold?** <br /> *XylyXylyX*](https://youtube.com/playlist?list=PLRlVmXqzHjUQHEx63ZFxV-0Ortgf-rpJo)
 * [**Manifolds** <br /> *Robert Davie*](https://youtube.com/playlist?list=PLeFwDGOexoe8cjplxwQFMvGLSxbOTUyLv)
 * [**Lie Groups and Lie Algebras** <br /> *XylyXylyX*](https://youtube.com/playlist?list=PLRlVmXqzHjURZO0fviJuyikvKlGS6rXrb)
-* [**Lectures on Geometric Anatomy of Theoretical Physics** <br /> Frederic Schuller](https://youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic)
-* [**Weekend with Bernie (Riemann)** <br /> Søren Hauberg @ DTU](http://www2.compute.dtu.dk/~sohau/weekendwithbernie/)
-
+* [**Lectures on Geometric Anatomy of Theoretical Physics** <br /> *Frederic Schuller*](https://youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic)
+* [**Weekend with Bernie (Riemann)** <br /> *Søren Hauberg @ DTU*](http://www2.compute.dtu.dk/~sohau/weekendwithbernie/)
 
 #### Notebooks and Blogposts
 * [**Introduction to Differential Geometry and Machine Learning** <br /> *Geomstats Jupyter notebooks*](https://github.com/geomstats/geomstats/tree/master/notebooks)
