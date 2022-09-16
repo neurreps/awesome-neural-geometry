@@ -63,6 +63,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Euler's formula with introductory group theory** **Intuition Building* <br /> *3blue1brown*](https://www.youtube.com/watch?v=mvmuCPvRoWQ&t=648s&ab_channel=3Blue1Brown)
 * [**What is a Tensor?** <br /> *XylyXylyX*](https://youtube.com/playlist?list=PLRlVmXqzHjUQARA37r4Qw3SHPqVXgqO6c)
 * [**Representation Theory** <br /> *Math Doctor Bob*](https://youtube.com/playlist?list=PL57457844458A5A1F)
+* [**Category Theory for AI** <br /> *Online Course, October 2022*](https://cats.for.ai/)
 
 <br />
 
