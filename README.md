@@ -19,6 +19,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 - [**Educational Resources**](#resources)
   - [Abstract Algebra + Group Theory](#grouptheory)
   - [Differential Geometry + Lie Groups](#diffgeo)
+  - [Information Geometry](#infogeo)
   - [Topology](#topology)
   - [Geometric Machine Learning](#gdl)
   - [Computational Neuroscience](#neuro-resources)
@@ -92,6 +93,15 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 
 
+
+<br />
+
+<a name="infogeo" />
+
+### Information Geometry
+
+#### Primers
+* [**The Many Faces of Information Geometry** (2022) <br /> *Frank Nielsen*](https://www.ams.org/journals/notices/202201/rnoti-p36.pdf)
 
 <br />
 
