@@ -203,6 +203,8 @@ This is a collaborative work-in-progress. Please contribute via PRs!
   * Generalizing convolutional neural networks for equivariance to Lie groups on arbitrary continuous data
 * [**Open Neuroscience**](https://open-neuroscience.com/)
   * A database of open-source tools and software for neuroscience
+* [**LieTorch**](https://gitlab.com/bsmetsjr/lietorch)
+  * Geometric machine learning and Lie analysis tools for PyTorch
 
 
 
@@ -368,4 +370,5 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**A General Theory of Equivariant CNNs on Homogeneous Spaces** (2019)<br /> *Taco Cohen, Mario Geiger, & Maurice Weiler* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://drive.google.com/file/d/1Vd6ID_HsY9PTHFqCEmPv4iTDlLsoBqVr/view?usp=sharing)
 * [**Generalizing convolutional neural networks for equivariance to Lie groups on arbitrary continuous data** (2020) <br /> *Marc Finzi, Samuel Stanton, Pavel Izmailov, Andrew Gordon Wilson* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://drive.google.com/file/d/1Xzvq2s7Oj3XXftHFcvrI5IhZklS7tt7L/view?usp=sharing)
 * [**Bispectral neural networks** (2022) <br /> *Sophia Sanborn, Christian Shewmake, Bruno Olshausen, Christopher Hillar* <br /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://arxiv.org/abs/2209.03416)
+* [**PDE-Based Group Equivariant Convolutional Neural Networks** (2022) <br /> *Bart M. N. Smets, Jim Portegies, Erik J. Bekkers & Remco Duits* <br />  <img src="https://img.shields.io/badge/-groups-DCEDC2" /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-PDEs-blue" />](https://link.springer.com/article/10.1007/s10851-022-01114-x)
 
