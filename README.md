@@ -287,6 +287,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 #### Spatial Navigation
 
+* [**Ring attractor dynamics in the Drosophila central brain** (2017) <br /> *Sung Soo Kim, Hervé Rouault, Shaul Druckmann, and Vivek Jayaraman*](https://www.science.org/doi/full/10.1126/science.aal4835?casa_token=y5cbQEVl0BoAAAAA:4hvdRNzkyIx_IFjEugUZGDc_1dJprHduwRYUSbKZ7Ffh_oHBh6KIzPTvSDFELKZ_mW7Fw2in1ljKR4A)
 * [**The intrinsic attractor manifold and population dynamics of a canonical cognitive circuit across waking and sleep** (2019)  <br /> *Rishidev Chaudhuri, Berk Gerçek, Biraj Pandey, Adrien Peyrache & Ila Fiete* <br /> <img src="https://img.shields.io/badge/-topology-FFD3B5" />
 ](https://www.nature.com/articles/s41593-019-0460-x) 
 * [**Toroidal topology of population activity in grid cells** (2022)  <br /> *Richard J. Gardner, Erik Hermansen, Marius Pachitariu, Yoram Burak, Nils A. Baas, Benjamin A. Dunn, May-Britt Moser & Edvard I. Moser* <br /> <img src="https://img.shields.io/badge/-topology-FFD3B5" />](https://www.nature.com/articles/s41586-021-04268-7) 
