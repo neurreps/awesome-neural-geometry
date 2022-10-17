@@ -39,7 +39,9 @@ This is a collaborative work-in-progress. Please contribute via PRs!
     - [Estimation on Manifolds](#estimation)
     - [Dimensionality Reduction and Disentangling](#disentangling)
     - [Deep Network Interpretability](#interpretability)
-    - [Group-Invariant and -Equivariant Representation Learning](#equivariance)
+    - [Group-Invariant Representation Learning](#invariance)
+    - [Generalized Convolutional Neural Networks](#convolution)
+
 
 
 <br /><br />
@@ -355,7 +357,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Naturally occurring equivariance in neural networks.** (2020) <br /> *Chris Olah, Nick Cammarata, Chelsea Voss, Ludwig Schubert, and Gabriel Goh.*](https://distill.pub/2020/circuits/equivariance/)
 * [**The Geometry of Deep Generative Image Models and its Applications** (2021) <br /> *Binxu Wang, Carlos R. Ponce* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />](https://arxiv.org/abs/2101.06006)
 
-<a name="equivariance" />
+<a name="invariance" />
 
 #### Group-Invariant Representation Learning
 
@@ -366,6 +368,9 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**An unsupervised algorithm for learning Lie group transformations.** (2010) <br /> Jascha Sohl-Dickstein, Ching Ming Wang, Bruno Olshausen <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://arxiv.org/pdf/1001.1027.pdf)
 * [**Learning the irreducible representations of commutative Lie groups** (2014) <br /> *Taco Cohen & Max Welling* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](http://proceedings.mlr.press/v32/cohen14.pdf)
 * [**Bispectral Neural Networks** (2022) <br /> *Sophia Sanborn, Christian Shewmake, Bruno Olshausen, Christopher Hillar* <br /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://arxiv.org/abs/2209.03416)
+
+
+<a name="convolution" />
 
 
 #### Generalized Convolutional Neural Networks
