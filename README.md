@@ -58,6 +58,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Group Theory: A Primer** (2019) <br /> *Luciano da Fontoura Costa*](https://www.researchgate.net/profile/Luciano-Da-F-Costa/publication/334126746_Group_Theory_A_Primer_CDT-11/links/5da83b2f299bf1c1e4c8ffb4/Group-Theory-A-Primer-CDT-11.pdf)
 * [**Tensors in Computations** (2021) <br /> *Lek-Heng Lim*](https://arxiv.org/pdf/2106.08090.pdf)
 * [**Aspects of Harmonic Analysis and Representation Theory** (2021) <br /> *Gallier & Quaintance*](https://drive.google.com/file/d/1eK8B1UpTJTnCXV6DL4-blDaKo6XQk28r/view?usp=sharing)
+* [**Basic concepts of representation theory** (2013) <br /> *Amritanshu Prasad*](https://cel.archives-ouvertes.fr/cel-00963677/document)
 * [**Representation Theory of Finite Groups** (2012) <br /> *Bemjamin Steinberg*](https://drive.google.com/file/d/1fe1qnVAkCHEY1hn9sOvcA6Ocww66fMmP/view?usp=sharing)
 
 #### Courses, Lectures, and Videos
