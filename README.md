@@ -79,6 +79,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 #### Textbooks & Notes
 * [**Lie Groups, Lie Algebras, and Representations** (2003) <br /> *Brian C. Hall*](https://link.springer.com/book/10.1007/978-3-319-13467-3)
 * [**Differential Geometry and Lie Groups: A Computational Perspective** (2020) <br /> *Gallier & Quaintance*](https://link.springer.com/book/10.1007/978-3-030-46040-2)
+* [**Introduction to Riemannian Geometry and Geometric Statistics: from basic theory to implementation with Geomstats** (2022) <br /> *Nicolas Guigui, Nina Miolane, Xavier Pannec*](https://hal.inria.fr/hal-03766900/)
 
 #### Courses, Lectures, and Videos
 * [**Geometry and Topology**](https://youtu.be/kp1k90zNVLc) and [**Symmetry**](https://youtu.be/yCxacFBLHIY) **Beginner-Friendly* <br /> *Sean Carroll*
