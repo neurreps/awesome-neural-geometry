@@ -90,6 +90,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Lie Groups and Lie Algebras** <br /> *XylyXylyX*](https://youtube.com/playlist?list=PLRlVmXqzHjURZO0fviJuyikvKlGS6rXrb)
 * [**Lectures on Geometric Anatomy of Theoretical Physics** <br /> *Frederic Schuller*](https://youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic)
 * [**Weekend with Bernie (Riemann)** <br /> *Søren Hauberg @ DTU*](http://www2.compute.dtu.dk/~sohau/weekendwithbernie/)
+* [**Riemann and Gauss Meet Asimov: A Tutorial on Geometric Methods in Robot Learning, Optimization, and Control** <br /> *IROS 2022*](https://youtube.com/playlist?list=PL_oEZ6dld4ignAdbFvcP_LAJgNbdrNBKC)
 
 #### Notebooks and Blogposts
 * [**Introduction to Differential Geometry and Machine Learning** <br /> *Geomstats Jupyter notebooks*](https://github.com/geomstats/geomstats/tree/master/notebooks)
