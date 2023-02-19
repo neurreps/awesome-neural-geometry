@@ -299,6 +299,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**The intrinsic attractor manifold and population dynamics of a canonical cognitive circuit across waking and sleep** (2019)  <br /> *Rishidev Chaudhuri, Berk Gerçek, Biraj Pandey, Adrien Peyrache & Ila Fiete* <br /> <img src="https://img.shields.io/badge/-topology-FFD3B5" />
 ](https://www.nature.com/articles/s41593-019-0460-x)
 * [**Toroidal topology of population activity in grid cells** (2022)  <br /> *Richard J. Gardner, Erik Hermansen, Marius Pachitariu, Yoram Burak, Nils A. Baas, Benjamin A. Dunn, May-Britt Moser & Edvard I. Moser* <br /> <img src="https://img.shields.io/badge/-topology-FFD3B5" />](https://www.nature.com/articles/s41586-021-04268-7)
+* [**Hippocampal spatial representations exhibit a hyperbolic geometry that expands with experience** (2022)  <br /> *Huanqiu Zhang, P. Dylan Rich, Albert K. Lee & Tatyana O. Sharpee* <br /> <img src="https://img.shields.io/badge/-topology-FFD3B5" />](https://www.nature.com/articles/s41593-022-01212-4)
 
 <a name="abstract" />
 
