@@ -321,6 +321,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Manifold GPLVMs for discovering non-Euclidean latent structure in neural data** (2020) <br /> *Kristopher Jensen, Ta-Chu Kao, Marco Tripodi, and Guillaume Hennequin* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://proceedings.neurips.cc/paper/2020/file/fedc604da8b0f9af74b6cfc0fab2163c-Paper.pdf)
 * [**Interpreting neural computations by examining intrinsic and embedding dimensionality of neural activity** (2021) <br /> *Mehrdad Jazayeri, Srdjan Ostojic*](https://arxiv.org/abs/2107.04084)
 * [**Generalized shape metrics on neural representations.** (2021) <br /> *Williams, A. H., Kunz, E., Kornblith, S., & Linderman, S.* <br /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" />](https://proceedings.neurips.cc/paper/2021/file/252a3dbaeb32e7690242ad3b556e626b-Paper.pdf)
+* [**Learnable latent embeddings for joint behavioural and neural analysis** (2023) <br /> *Schneider, S.*, Lee, J.H.*, Mathis, M.W.* <br />](https://www.nature.com/articles/s41586-023-06031-6)
 
 <br />
 
