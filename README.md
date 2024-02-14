@@ -224,8 +224,11 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 # Conferences and Workshops
 
-* [**NeurIPS Workshop on Symmetry and Geometry in Neural Representations** (2022)](https://neurreps.org)
-* [**ICML Workshop on Topology, Algebra and Geometry in Machine Learning** (2022)](https://www.tagds.com/events/conferences/tag-in-machine-learning)
+* [**NeurIPS Workshop on Symmetry and Geometry in Neural Representations** (2023)](https://neurreps.org)
+* [**ICML Workshop on Topology, Algebra and Geometry in Machine Learning** (2023)](https://www.tagds.com/events/conference-workshops/tag-ml23)
+* [**RSS Workshop on Symmetries in Robot Learning** (2023)](https://sites.google.com/view/rss23-sym)
+* [**NeurIPS Workshop on Symmetry and Geometry in Neural Representations** (2022)](https://www.neurreps.org/past-workshops)
+* [**ICML Workshop on Topology, Algebra and Geometry in Machine Learning** (2022)](https://www.tagds.com/events/conference-workshops/tag-ml22)
 * [**ICLR Workshop on Geometrical and Topological Representation Learning** (2022)](https://gt-rl.github.io/)
 * [**Workshop on Symmetry, Invariance and Neural Representations @ The Bernstein Conference** (2022)](https://bernstein-network.de/bernstein-conference/program/satellite-workshops/symmetry-invariance-and-neural-representations/)
 
@@ -377,6 +380,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**An unsupervised algorithm for learning Lie group transformations.** (2010) <br /> Jascha Sohl-Dickstein, Ching Ming Wang, Bruno Olshausen <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://arxiv.org/pdf/1001.1027.pdf)
 * [**Learning the irreducible representations of commutative Lie groups** (2014) <br /> *Taco Cohen & Max Welling* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](http://proceedings.mlr.press/v32/cohen14.pdf)
 * [**Bispectral Neural Networks** (2022) <br /> *Sophia Sanborn, Christian Shewmake, Bruno Olshausen, Christopher Hillar* <br /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://arxiv.org/abs/2209.03416)
+* [**Geometric Clifford Algebra Networks** (2023) <br /> *David Ruhem Jayesh K. Gupta, Steven de Keninck, Max Welling, Johannes Brandstetter* <br /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://arxiv.org/abs/2302.06594)
 
 
 <a name="convolution" />
@@ -395,6 +399,8 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**A General Theory of Equivariant CNNs on Homogeneous Spaces** (2019)<br /> *Taco Cohen, Mario Geiger, & Maurice Weiler* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://drive.google.com/file/d/1Vd6ID_HsY9PTHFqCEmPv4iTDlLsoBqVr/view?usp=sharing)
 * [**Generalizing convolutional neural networks for equivariance to Lie groups on arbitrary continuous data** (2020) <br /> *Marc Finzi, Samuel Stanton, Pavel Izmailov, Andrew Gordon Wilson* <br /><img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://drive.google.com/file/d/1Xzvq2s7Oj3XXftHFcvrI5IhZklS7tt7L/view?usp=sharing)
 * [**PDE-Based Group Equivariant Convolutional Neural Networks** (2022) <br /> *Bart M. N. Smets, Jim Portegies, Erik J. Bekkers & Remco Duits* <br />  <img src="https://img.shields.io/badge/-groups-DCEDC2" /> <img src="https://img.shields.io/badge/-differential geometry-A8E6CE" /> <img src="https://img.shields.io/badge/-PDEs-blue" />](https://link.springer.com/article/10.1007/s10851-022-01114-x)
+* [**Clifford Neural Layers for PDE Modeling** (2022) <br /> *Johannes Brandstetter, Rianne van den Berg, Max Welling, Jayesh K. Gupta* <br /> <img src="https://img.shields.io/badge/-groups-DCEDC2" /> <img src="https://img.shields.io/badge/-PDEs-blue" />](https://arxiv.org/abs/2209.04934)
+* [**Clifford Group Equivariant Neural Networks** (2023) <br /> *David Ruhe, Johannes Brandstetter, Patrick Forré* <br /> <img src="https://img.shields.io/badge/-groups-DCEDC2" />](https://arxiv.org/abs/2305.11141)
 
 
 ##### Geodesics and Riemannian Manifolds
