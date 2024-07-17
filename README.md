@@ -26,21 +26,6 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 - [**Datasets**](#datasets)
 - [**Software Libraries**](#software)
 - [**Conferences and Workshops**](#conferences)
-- [**Research Papers**](#research)
-  - [Neuroscience](#neuro)
-    - [Theory and Perspectives](#theory)
-    - [Vision](#vision)
-    - [Motor Control](#motor)
-    - [Spatial Navigation](#navigation)
-    - [Abstract Representations](#abstract)
-    - [Methods](#methods)
-  - [Geometric Machine Learning](#gdl)
-    - [Theory](#theory)
-    - [Estimation on Manifolds](#estimation)
-    - [Dimensionality Reduction and Disentangling](#disentangling)
-    - [Deep Network Interpretability](#interpretability)
-    - [Group-Invariant Representation Learning](#invariance)
-    - [Generalized Convolutional Neural Networks](#convolution)
 
 
 
