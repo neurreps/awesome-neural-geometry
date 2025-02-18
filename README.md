@@ -202,6 +202,8 @@ This is a collaborative work-in-progress. Please contribute via PRs!
   * A database of open-source tools and software for neuroscience
 * [**LieTorch**](https://gitlab.com/bsmetsjr/lietorch)
   * Geometric machine learning and Lie analysis tools for PyTorch
+* [**pyRiemann**](https://github.com/pyRiemann/pyRiemann)
+  * Machine learning for multivariate data through the Riemannian geometry of positive definite matrices
 
 
 
