@@ -78,12 +78,12 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Weekend with Bernie (Riemann)** <br /> *Søren Hauberg @ DTU*](http://www2.compute.dtu.dk/~sohau/weekendwithbernie/)
 * [**Riemann and Gauss Meet Asimov: A Tutorial on Geometric Methods in Robot Learning, Optimization, and Control** <br /> *IROS 2022*](https://youtube.com/playlist?list=PL_oEZ6dld4ignAdbFvcP_LAJgNbdrNBKC)
 
-#### Notebooks and Blogposts
+#### Notebooks, Blogposts and Papers
 * [**Introduction to Differential Geometry and Machine Learning** <br /> *Geomstats Jupyter notebooks*](https://github.com/geomstats/geomstats/tree/master/notebooks)
 * [**Differential Geometry for Machine Learning** <br /> *Roger Grosse*](https://metacademy.org/roadmaps/rgrosse/dgml)
 * [**Manifolds: A Gentle Introduction** <br /> *Brian Keng*](https://bjlkeng.github.io/posts/manifolds/)
 * [**Differential geometry of ML** <br /> *Kyuhyeon Choi*](https://research.fal.ai/blog/differential-geometry-of-ml/)
-
+* [**A mathematical framework of intelligence and consciousness based on Riemannian Geometry** <br /> *Meng Lu*](https://arxiv.org/abs/2407.11024)
 
 <br />
 
@@ -166,9 +166,6 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 #### Courses, Lectures, and Videos
 * [**Neural Computation VS265** <br /> *Bruno Olshausen @ UC Berkeley*](https://redwood.berkeley.edu/courses/vs265/)
 
-
-#### Papers
-* [**A mathematical framework of intelligence and consciousness based on Riemannian Geometry** <br /> *Meng Lu**](https://arxiv.org/abs/2407.11024)
 
 <br />
 
