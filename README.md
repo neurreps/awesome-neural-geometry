@@ -78,14 +78,12 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Weekend with Bernie (Riemann)** <br /> *Søren Hauberg @ DTU*](http://www2.compute.dtu.dk/~sohau/weekendwithbernie/)
 * [**Riemann and Gauss Meet Asimov: A Tutorial on Geometric Methods in Robot Learning, Optimization, and Control** <br /> *IROS 2022*](https://youtube.com/playlist?list=PL_oEZ6dld4ignAdbFvcP_LAJgNbdrNBKC)
 
-#### Notebooks, Blogposts and Papers
+#### Notebooks and Blogposts
 * [**Introduction to Differential Geometry and Machine Learning** <br /> *Geomstats Jupyter notebooks*](https://github.com/geomstats/geomstats/tree/master/notebooks)
 * [**Differential Geometry for Machine Learning** <br /> *Roger Grosse*](https://metacademy.org/roadmaps/rgrosse/dgml)
 * [**Manifolds: A Gentle Introduction** <br /> *Brian Keng*](https://bjlkeng.github.io/posts/manifolds/)
-* [**Thoughts on Riemannian metrics and its connection with diffusion/score matching [Part I]** <br /> *Christian S. Perone*](https://blog.christianperone.com/2023/09/thoughts-on-riemannian-metrics-and-its-connection-with-diffusion-score-matching-part-i/)
-* [**The geometry of data: the missing metric tensor and the Stein score [Part II]** <br /> *Christian S. Perone*](https://blog.christianperone.com/2024/11/the-geometry-of-data-part-ii/)
-* [**Are Deep Neural Networks Dramatically Overfitted?** <br /> *Lilian Weng*](https://lilianweng.github.io/posts/2019-03-14-overfit/)
-* [**A mathematical framework of intelligence and consciousness based on Riemannian Geometry** <br /> *Meng Lu**](https://arxiv.org/abs/2407.11024)
+* [**Differential geometry of ML** <br /> *Kyuhyeon Choi*](https://research.fal.ai/blog/differential-geometry-of-ml/)
+
 
 <br />
 
@@ -139,6 +137,9 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Geometric foundations of Deep Learning** <br /> *Michael Bronstein, Joan Bruna, Taco Cohen, and Petar Veličković*](https://towardsdatascience.com/geometric-foundations-of-deep-learning-94cdd45b451d)
 * [**What does 2022 hold for Geometric & Graph ML?** <br /> *Michael Bronstein*](https://towardsdatascience.com/predictions-and-hopes-for-geometric-graph-ml-in-2022-aa3b8b79f5cc)
 * [**Geometric Machine Learning for Shape Analysis with Jupyter Notebooks** <br /> *Nina Miolane*](https://github.com/bioshape-lab/ece594n/tree/main/lectures)
+* [**Thoughts on Riemannian metrics and its connection with diffusion/score matching [Part I]** <br /> *Christian S. Perone*](https://blog.christianperone.com/2023/09/thoughts-on-riemannian-metrics-and-its-connection-with-diffusion-score-matching-part-i/)
+* [**The geometry of data: the missing metric tensor and the Stein score [Part II]** <br /> *Christian S. Perone*](https://blog.christianperone.com/2024/11/the-geometry-of-data-part-ii/)
+* [**Are Deep Neural Networks Dramatically Overfitted?** <br /> *Lilian Weng*](https://lilianweng.github.io/posts/2019-03-14-overfit/)
 
 <br />
 
@@ -165,6 +166,9 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 #### Courses, Lectures, and Videos
 * [**Neural Computation VS265** <br /> *Bruno Olshausen @ UC Berkeley*](https://redwood.berkeley.edu/courses/vs265/)
 
+
+#### Papers
+* [**A mathematical framework of intelligence and consciousness based on Riemannian Geometry** <br /> *Meng Lu**](https://arxiv.org/abs/2407.11024)
 
 <br />
 
