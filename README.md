@@ -178,6 +178,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 #### Sites
 * [**Transformer Circuits Thread** <br /> *Anthropic Inc.*](https://transformer-circuits.pub/)
+* [**Christopher Olah's Blog** <br /> *Christopher Olah*](https://colah.github.io/)
 * [**Physics of Language Models** <br /> *Allen Zhu*](https://physics.allen-zhu.com/)
 * [**Awesome Deep Phenomena** <br /> *Minghui Chen*](https://github.com/MinghuiChen43/awesome-deep-phenomena)
 
