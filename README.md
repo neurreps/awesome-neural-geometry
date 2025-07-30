@@ -139,7 +139,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Geometric Machine Learning for Shape Analysis with Jupyter Notebooks** <br /> *Nina Miolane*](https://github.com/bioshape-lab/ece594n/tree/main/lectures)
 * [**Thoughts on Riemannian metrics and its connection with diffusion/score matching [Part I]** <br /> *Christian S. Perone*](https://blog.christianperone.com/2023/09/thoughts-on-riemannian-metrics-and-its-connection-with-diffusion-score-matching-part-i/)
 * [**The geometry of data: the missing metric tensor and the Stein score [Part II]** <br /> *Christian S. Perone*](https://blog.christianperone.com/2024/11/the-geometry-of-data-part-ii/)
-* [**Are Deep Neural Networks Dramatically Overfitted?** <br /> *Lilian Weng*](https://lilianweng.github.io/posts/2019-03-14-overfit/)
+
 
 <br />
 
@@ -178,8 +178,9 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 #### Sites
 * [**Transformer Circuits Thread** <br /> *Anthropic Inc.*](https://transformer-circuits.pub/)
-* [**Christopher Olah's Blog** <br /> *Christopher Olah*](https://colah.github.io/)
 * [**Physics of Language Models** <br /> *Allen Zhu*](https://physics.allen-zhu.com/)
+* [**Lilian Weng's Blog** <br /> *Lilian Weng*](https://lilianweng.github.io/archives/)
+* [**Christopher Olah's Blog** <br /> *Christopher Olah*](https://colah.github.io/)
 * [**Awesome Deep Phenomena** <br /> *Minghui Chen*](https://github.com/MinghuiChen43/awesome-deep-phenomena)
 
 <br /><br />
