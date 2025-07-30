@@ -84,8 +84,8 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Manifolds: A Gentle Introduction** <br /> *Brian Keng*](https://bjlkeng.github.io/posts/manifolds/)
 * [**Thoughts on Riemannian metrics and its connection with diffusion/score matching [Part I]** <br /> *Christian S. Perone*](https://blog.christianperone.com/2023/09/thoughts-on-riemannian-metrics-and-its-connection-with-diffusion-score-matching-part-i/)
 * [**The geometry of data: the missing metric tensor and the Stein score [Part II]** <br /> *Christian S. Perone*](https://blog.christianperone.com/2024/11/the-geometry-of-data-part-ii/)
-* [**A mathematical framework of intelligence and consciousness based on Riemannian Geometry** <br /> *Meng Lu*][(https://blog.christianperone.com/2024/11/the-geometry-of-data-part-ii/](https://arxiv.org/abs/2407.11024)
-
+* [**Are Deep Neural Networks Dramatically Overfitted?** <br /> *Lilian Weng*](https://lilianweng.github.io/posts/2019-03-14-overfit/)
+* [**A mathematical framework of intelligence and consciousness based on Riemannian Geometry** <br /> *Meng Lu**](https://arxiv.org/abs/2407.11024)
 
 <br />
 
@@ -165,6 +165,16 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 #### Courses, Lectures, and Videos
 * [**Neural Computation VS265** <br /> *Bruno Olshausen @ UC Berkeley*](https://redwood.berkeley.edu/courses/vs265/)
 
+
+<br />
+
+<a name="mech-interpretability" />
+
+### Mechanistic Interpretability
+
+#### Sites
+* [**Transformer Circuits Thread** <br /> *Anthropic Inc.*](https://transformer-circuits.pub/)
+* [**Physics of Language Models** <br /> *Allen Zhu*](https://physics.allen-zhu.com/)
 
 <br /><br />
 
