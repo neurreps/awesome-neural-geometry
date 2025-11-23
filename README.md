@@ -193,7 +193,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 
 * [**Geomstats**](https://geomstats.github.io/)
-  * Computation, statistics, and machine learning on non-Euclidean manifolds
+  * Computation, statistics, and machine learning on manifolds
 * [**Giotto TDA**](https://giotto-ai.github.io/gtda-docs/0.5.1/library.html)
   * Topological Data Analysis
 * [**E3NN**](https://github.com/e3nn/e3nn)
@@ -210,8 +210,14 @@ This is a collaborative work-in-progress. Please contribute via PRs!
   * Geometric machine learning and Lie analysis tools for PyTorch
 * [**pyRiemann**](https://github.com/pyRiemann/pyRiemann)
   * Machine learning for multivariate data through the Riemannian geometry of positive definite matrices
-
-
+* [**Pymanopt**](https://pymanopt.org/)
+  * Optimization on manifolds
+* [**Geoopt**](https://geoopt.readthedocs.io/en/latest/)
+  * Riemannian Adaptive Optimization Methods with pytorch optim
+* [**TopoX**](https://pyt-team.github.io/)
+  * Computing, embedding, and deep learning on discrete topological domains
+* [**TopoBench**](https://github.com/geometric-intelligence/TopoBench)
+  * Benchmarking topological deep learning
 
 <br /><br />
 
