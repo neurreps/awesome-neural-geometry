@@ -101,7 +101,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 #### Primers
 * [**The Many Faces of Information Geometry** (2022) <br /> *Frank Nielsen*](https://www.ams.org/journals/notices/202201/rnoti-p36.pdf)
-* [**Parametric information geometry with the package Geomstats** (2022) <br /> *Alice Le Brigant*](https://arxiv.org/abs/2211.11643)
+* [**Parametric information geometry with the package Geomstats** (2022) <br /> *Alice Le Brigant et al.*](https://arxiv.org/abs/2211.11643)
 
 <br />
 
