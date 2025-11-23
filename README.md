@@ -64,7 +64,14 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 #### Textbooks & Notes
 * [**Lie Groups, Lie Algebras, and Representations** (2003) <br /> *Brian C. Hall*](https://link.springer.com/book/10.1007/978-3-319-13467-3)
 * [**Differential Geometry and Lie Groups: A Computational Perspective** (2020) <br /> *Gallier & Quaintance*](https://link.springer.com/book/10.1007/978-3-030-46040-2)
-* [**Introduction to Riemannian Geometry and Geometric Statistics: from basic theory to implementation with Geomstats** (2022) <br /> *Nicolas Guigui, Nina Miolane, Xavier Pannec*](https://hal.inria.fr/hal-03766900/)
+* [**Introduction to Riemannian Geometry and Geometric Statistics: from basic theory to implementation with Geomstats** (2022) <br /> *Nicolas Guigui, Nina Miolane, Xavier Pennec*](https://hal.inria.fr/hal-03766900/)
+* [**Geometry, Topology and Physics** (2003) <br /> *Nakahara*](https://www.amazon.com/Geometry-Topology-Physics-Graduate-Student/dp/0750306068)
+* [**Differential Forms and Connections** (2012) <br /> *Darling*](https://www.cambridge.org/core/books/differential-forms-and-connections/767FC792F030D351AF5E65D0434248F5)
+* [**Connections, Curvature, and Characteristic Classes** (2017) <br /> *Loring W. Tu*](https://link.springer.com/book/10.1007/978-3-319-55084-8)
+* [**Riemannian manifolds, an introduction to curvature** (2000) *John M. Lee*](https://link.springer.com/book/10.1007/b98852)
+* [**A Comprehensive Introduction to Differential Geometry** (1999) *Michael Spivak*](https://dl.icdst.org/pdfs/files3/e9091aa2ddcfcbf04faeb46c68d7dc49.pdf)
+* [**Riemannian Geometry** (2001) *Mikhail Postnikov*](https://link.springer.com/book/10.1007/978-3-662-04433-9)
+
 
 #### Courses, Lectures, and Videos
 * [**Geometry and Topology**](https://youtu.be/kp1k90zNVLc) and [**Symmetry**](https://youtu.be/yCxacFBLHIY) **Beginner-Friendly* <br /> *Sean Carroll*
@@ -76,6 +83,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Lectures on Geometric Anatomy of Theoretical Physics** <br /> *Frederic Schuller*](https://youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic)
 * [**Weekend with Bernie (Riemann)** <br /> *Søren Hauberg @ DTU*](http://www2.compute.dtu.dk/~sohau/weekendwithbernie/)
 * [**Riemann and Gauss Meet Asimov: A Tutorial on Geometric Methods in Robot Learning, Optimization, and Control** <br /> *IROS 2022*](https://youtube.com/playlist?list=PL_oEZ6dld4ignAdbFvcP_LAJgNbdrNBKC)
+* [**Riemannian Geometry and Machine Learning for Non‐Euclidean Data**<br /> *Park and Jang 2019*](https://aisociety.kr/KJMLW2019/slides/fcp.pdf)
 
 #### Notebooks and Blogposts
 * [**Introduction to Differential Geometry and Machine Learning** <br /> *Geomstats Jupyter notebooks*](https://github.com/geomstats/geomstats/tree/master/notebooks)
