@@ -96,6 +96,10 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 <br />
 
+<br />
+
+<a name="topo" />
+
 
 ### Topology
 
@@ -103,13 +107,15 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 * [**Computational Algebraic Topology** <br /> Vidit Nanda](https://youtube.com/playlist?list=PLnLAqsCN_2ke8_EUd_KoJsLkPO0BKrrc6)
 
+* [**Foundations of Topological Data Analysis** <br /> Robert Ghrist and Vidit Nanda](https://www.youtube.com/playlist?list=PL8erL0pXF3JaR4no7ivppQ5zwhq2QnzzQ)
+
 * [**Topological Data Analysis for Machine Learning** <br /> Bastian Rieck](https://www.youtube.com/playlist?list=PLjFHG9gPsecYteKmbVbPhjiz2jHRtKT20)
 
 #### Textbooks, Notes
 * [**Elementary Applied Topology** <br /> Robert Ghrist](https://www2.math.upenn.edu/~ghrist/notes.html)
 <br />
 
-
+<br />
 <a name="gdl" />
 
 
