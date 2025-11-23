@@ -68,9 +68,9 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Geometry, Topology and Physics** (2003) <br /> *Nakahara*](https://www.amazon.com/Geometry-Topology-Physics-Graduate-Student/dp/0750306068)
 * [**Differential Forms and Connections** (2012) <br /> *Darling*](https://www.cambridge.org/core/books/differential-forms-and-connections/767FC792F030D351AF5E65D0434248F5)
 * [**Connections, Curvature, and Characteristic Classes** (2017) <br /> *Loring W. Tu*](https://link.springer.com/book/10.1007/978-3-319-55084-8)
-* [**Riemannian manifolds, an introduction to curvature** (2000) *John M. Lee*](https://link.springer.com/book/10.1007/b98852)
-* [**A Comprehensive Introduction to Differential Geometry** (1999) *Michael Spivak*](https://dl.icdst.org/pdfs/files3/e9091aa2ddcfcbf04faeb46c68d7dc49.pdf)
-* [**Riemannian Geometry** (2001) *Mikhail Postnikov*](https://link.springer.com/book/10.1007/978-3-662-04433-9)
+* [**Riemannian manifolds, an introduction to curvature** (2000) <br /> *John M. Lee*](https://link.springer.com/book/10.1007/b98852)
+* [**A Comprehensive Introduction to Differential Geometry** (1999) <br /> *Michael Spivak*](https://dl.icdst.org/pdfs/files3/e9091aa2ddcfcbf04faeb46c68d7dc49.pdf)
+* [**Riemannian Geometry** (2001) <br /> *Mikhail Postnikov*](https://link.springer.com/book/10.1007/978-3-662-04433-9)
 
 
 #### Courses, Lectures, and Videos
