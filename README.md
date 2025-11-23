@@ -101,6 +101,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 #### Primers
 * [**The Many Faces of Information Geometry** (2022) <br /> *Frank Nielsen*](https://www.ams.org/journals/notices/202201/rnoti-p36.pdf)
+* [**Parametric information geometry with the package Geomstats** (2022) <br /> *Alice Le Brigant*](https://arxiv.org/abs/2211.11643)
 
 <br />
 
@@ -121,7 +122,12 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 #### Textbooks, Notes
 * [**Elementary Applied Topology** <br /> Robert Ghrist](https://www2.math.upenn.edu/~ghrist/notes.html)
+* [**Topological Deep Learning: Going Beyond Graph Data** <br /> Mustafa Hajij et al.](https://arxiv.org/abs/2206.00606))
+* [**Architectures of Topological Deep Learning: A Survey of Message-Passing Topological Neural Networks** <br /> Mathilde Papillon et al.](https://arxiv.org/abs/2304.10031)
 <br />
+
+
+
 
 <br />
 <a name="gdl" />
@@ -137,6 +143,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges** (2021) <br /> _Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković_](https://arxiv.org/abs/2104.13478)
 * [**Equivariant Convolutional Networks** (2021) <br /> *Taco Cohen, PhD Thesis*](https://pure.uva.nl/ws/files/60770359/Thesis.pdf)
 * [**An Introduction to Optimization on Smooth Manifolds** (2022) <br /> *Nicolas Boumal*](https://sma.epfl.ch/~nboumal/book/IntroOptimManifolds_Boumal_2022.pdf)
+* [**Beyond Euclid: An Illustrated Guide to Modern Machine Learning with Geometric, Topological, and Algebraic Structures** (2025) <br /> *Mathilde Papillon et al.*](https://arxiv.org/abs/2407.09468)
 
 #### Courses, Lectures, and Videos
 
