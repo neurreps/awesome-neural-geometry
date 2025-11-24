@@ -122,9 +122,10 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 #### Textbooks, Notes
 * [**Elementary Applied Topology** <br /> Robert Ghrist](https://www2.math.upenn.edu/~ghrist/notes.html)
-* [**Topological Deep Learning: Going Beyond Graph Data** <br /> Mustafa Hajij et al.](https://arxiv.org/abs/2206.00606))
-* [**Topological Deep Learning: Graphs, Complexes, Sheaves** <br /> Cristian Bodnar](https://www.repository.cam.ac.uk/items/06b0b8e5-57d1-4120-8fad-643ce4d40eda)
-* [**Architectures of Topological Deep Learning: A Survey of Message-Passing Topological Neural Networks** <br /> Mathilde Papillon et al.](https://arxiv.org/abs/2304.10031)
+* [**A Survey of Topological Machine Learning Methods** (2021) <br /> Felix Hensel, Michael Moor, Bastian Rieck](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2021.681108/full)
+* [**Topological Deep Learning: Graphs, Complexes, Sheaves** (2022) <br /> Cristian Bodnar](https://www.repository.cam.ac.uk/items/06b0b8e5-57d1-4120-8fad-643ce4d40eda)
+* [**Topological Deep Learning: Going Beyond Graph Data** (2023) <br /> Mustafa Hajij et al.](https://arxiv.org/abs/2206.00606)
+* [**Architectures of Topological Deep Learning: A Survey of Message-Passing Topological Neural Networks** (2023) <br /> Mathilde Papillon et al.](https://arxiv.org/abs/2304.10031)
 <br />
 
 
@@ -136,7 +137,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 ### Geometric Machine Learning
 
-#### Textbooks
+#### Textbooks and Surveys
 
 * [**Group Invariance Applications in Statistics** (1989) <br /> Morris Eaton](https://www.jstor.org/stable/4153172)
 * [**Group Theoretical Methods in Machine Learning** (2008) <br /> *Risi Kondor, PhD Thesis*](http://www.cs.columbia.edu/~jebara/papers/thesisKondor.pdf)
@@ -145,6 +146,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Equivariant Convolutional Networks** (2021) <br /> *Taco Cohen, PhD Thesis*](https://pure.uva.nl/ws/files/60770359/Thesis.pdf)
 * [**An Introduction to Optimization on Smooth Manifolds** (2022) <br /> *Nicolas Boumal*](https://sma.epfl.ch/~nboumal/book/IntroOptimManifolds_Boumal_2022.pdf)
 * [**Beyond Euclid: An Illustrated Guide to Modern Machine Learning with Geometric, Topological, and Algebraic Structures** (2025) <br /> *Mathilde Papillon et al.*](https://arxiv.org/abs/2407.09468)
+* [**Symmetry in Neural Network Parameter Spaces** (2025) <br /> *Bo Zhao, Robin Walters, Rose Yu*](https://arxiv.org/abs/2506.13018)
 
 #### Courses, Lectures, and Videos
 
