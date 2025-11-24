@@ -123,6 +123,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 #### Textbooks, Notes
 * [**Elementary Applied Topology** <br /> Robert Ghrist](https://www2.math.upenn.edu/~ghrist/notes.html)
 * [**Topological Deep Learning: Going Beyond Graph Data** <br /> Mustafa Hajij et al.](https://arxiv.org/abs/2206.00606))
+* [**Topological Deep Learning: Graphs, Complexes, Sheaves** <br /> Cristian Bodnar](https://www.repository.cam.ac.uk/items/06b0b8e5-57d1-4120-8fad-643ce4d40eda)
 * [**Architectures of Topological Deep Learning: A Survey of Message-Passing Topological Neural Networks** <br /> Mathilde Papillon et al.](https://arxiv.org/abs/2304.10031)
 <br />
 
