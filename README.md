@@ -89,6 +89,8 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Introduction to Differential Geometry and Machine Learning** <br /> *Geomstats Jupyter notebooks*](https://github.com/geomstats/geomstats/tree/master/notebooks)
 * [**Differential Geometry for Machine Learning** <br /> *Roger Grosse*](https://metacademy.org/roadmaps/rgrosse/dgml)
 * [**Manifolds: A Gentle Introduction** <br /> *Brian Keng*](https://bjlkeng.github.io/posts/manifolds/)
+* [**Differential geometry of ML** <br /> *Kyuhyeon Choi*](https://research.fal.ai/blog/differential-geometry-of-ml/)
+* [**A mathematical framework of intelligence and consciousness based on Riemannian Geometry** <br /> *Meng Lu*](https://arxiv.org/abs/2407.11024)
 
 
 
