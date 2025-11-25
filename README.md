@@ -64,7 +64,14 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 #### Textbooks & Notes
 * [**Lie Groups, Lie Algebras, and Representations** (2003) <br /> *Brian C. Hall*](https://link.springer.com/book/10.1007/978-3-319-13467-3)
 * [**Differential Geometry and Lie Groups: A Computational Perspective** (2020) <br /> *Gallier & Quaintance*](https://link.springer.com/book/10.1007/978-3-030-46040-2)
-* [**Introduction to Riemannian Geometry and Geometric Statistics: from basic theory to implementation with Geomstats** (2022) <br /> *Nicolas Guigui, Nina Miolane, Xavier Pannec*](https://hal.inria.fr/hal-03766900/)
+* [**Introduction to Riemannian Geometry and Geometric Statistics: from basic theory to implementation with Geomstats** (2022) <br /> *Nicolas Guigui, Nina Miolane, Xavier Pennec*](https://hal.inria.fr/hal-03766900/)
+* [**Geometry, Topology and Physics** (2003) <br /> *Nakahara*](https://www.amazon.com/Geometry-Topology-Physics-Graduate-Student/dp/0750306068)
+* [**Differential Forms and Connections** (2012) <br /> *Darling*](https://www.cambridge.org/core/books/differential-forms-and-connections/767FC792F030D351AF5E65D0434248F5)
+* [**Connections, Curvature, and Characteristic Classes** (2017) <br /> *Loring W. Tu*](https://link.springer.com/book/10.1007/978-3-319-55084-8)
+* [**Riemannian manifolds, an introduction to curvature** (2000) <br /> *John M. Lee*](https://link.springer.com/book/10.1007/b98852)
+* [**A Comprehensive Introduction to Differential Geometry** (1999) <br /> *Michael Spivak*](https://dl.icdst.org/pdfs/files3/e9091aa2ddcfcbf04faeb46c68d7dc49.pdf)
+* [**Riemannian Geometry** (2001) <br /> *Mikhail Postnikov*](https://link.springer.com/book/10.1007/978-3-662-04433-9)
+
 
 #### Courses, Lectures, and Videos
 * [**Geometry and Topology**](https://youtu.be/kp1k90zNVLc) and [**Symmetry**](https://youtu.be/yCxacFBLHIY) **Beginner-Friendly* <br /> *Sean Carroll*
@@ -76,6 +83,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Lectures on Geometric Anatomy of Theoretical Physics** <br /> *Frederic Schuller*](https://youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic)
 * [**Weekend with Bernie (Riemann)** <br /> *Søren Hauberg @ DTU*](http://www2.compute.dtu.dk/~sohau/weekendwithbernie/)
 * [**Riemann and Gauss Meet Asimov: A Tutorial on Geometric Methods in Robot Learning, Optimization, and Control** <br /> *IROS 2022*](https://youtube.com/playlist?list=PL_oEZ6dld4ignAdbFvcP_LAJgNbdrNBKC)
+* [**Riemannian Geometry and Machine Learning for Non‐Euclidean Data**<br /> *Park and Jang 2019*](https://aisociety.kr/KJMLW2019/slides/fcp.pdf)
 
 #### Notebooks and Blogposts
 * [**Introduction to Differential Geometry and Machine Learning** <br /> *Geomstats Jupyter notebooks*](https://github.com/geomstats/geomstats/tree/master/notebooks)
@@ -93,8 +101,13 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 #### Primers
 * [**The Many Faces of Information Geometry** (2022) <br /> *Frank Nielsen*](https://www.ams.org/journals/notices/202201/rnoti-p36.pdf)
+* [**Parametric information geometry with the package Geomstats** (2022) <br /> *Alice Le Brigant et al.*](https://arxiv.org/abs/2211.11643)
 
 <br />
+
+<br />
+
+<a name="topo" />
 
 
 ### Topology
@@ -103,19 +116,28 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 * [**Computational Algebraic Topology** <br /> Vidit Nanda](https://youtube.com/playlist?list=PLnLAqsCN_2ke8_EUd_KoJsLkPO0BKrrc6)
 
+* [**Foundations of Topological Data Analysis** <br /> Robert Ghrist and Vidit Nanda](https://www.youtube.com/playlist?list=PL8erL0pXF3JaR4no7ivppQ5zwhq2QnzzQ)
+
 * [**Topological Data Analysis for Machine Learning** <br /> Bastian Rieck](https://www.youtube.com/playlist?list=PLjFHG9gPsecYteKmbVbPhjiz2jHRtKT20)
 
 #### Textbooks, Notes
 * [**Elementary Applied Topology** <br /> Robert Ghrist](https://www2.math.upenn.edu/~ghrist/notes.html)
+* [**A Survey of Topological Machine Learning Methods** (2021) <br /> Felix Hensel, Michael Moor, Bastian Rieck](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2021.681108/full)
+* [**Topological Deep Learning: Graphs, Complexes, Sheaves** (2022) <br /> Cristian Bodnar](https://www.repository.cam.ac.uk/items/06b0b8e5-57d1-4120-8fad-643ce4d40eda)
+* [**Topological Deep Learning: Going Beyond Graph Data** (2023) <br /> Mustafa Hajij et al.](https://arxiv.org/abs/2206.00606)
+* [**Architectures of Topological Deep Learning: A Survey of Message-Passing Topological Neural Networks** (2023) <br /> Mathilde Papillon et al.](https://arxiv.org/abs/2304.10031)
 <br />
 
 
+
+
+<br />
 <a name="gdl" />
 
 
 ### Geometric Machine Learning
 
-#### Textbooks
+#### Textbooks and Surveys
 
 * [**Group Invariance Applications in Statistics** (1989) <br /> Morris Eaton](https://www.jstor.org/stable/4153172)
 * [**Group Theoretical Methods in Machine Learning** (2008) <br /> *Risi Kondor, PhD Thesis*](http://www.cs.columbia.edu/~jebara/papers/thesisKondor.pdf)
@@ -123,6 +145,8 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges** (2021) <br /> _Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković_](https://arxiv.org/abs/2104.13478)
 * [**Equivariant Convolutional Networks** (2021) <br /> *Taco Cohen, PhD Thesis*](https://pure.uva.nl/ws/files/60770359/Thesis.pdf)
 * [**An Introduction to Optimization on Smooth Manifolds** (2022) <br /> *Nicolas Boumal*](https://sma.epfl.ch/~nboumal/book/IntroOptimManifolds_Boumal_2022.pdf)
+* [**Beyond Euclid: An Illustrated Guide to Modern Machine Learning with Geometric, Topological, and Algebraic Structures** (2025) <br /> *Mathilde Papillon et al.*](https://arxiv.org/abs/2407.09468)
+* [**Symmetry in Neural Network Parameter Spaces** (2025) <br /> *Bo Zhao, Robin Walters, Rose Yu*](https://arxiv.org/abs/2506.13018)
 
 #### Courses, Lectures, and Videos
 
@@ -187,7 +211,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 
 * [**Geomstats**](https://geomstats.github.io/)
-  * Computation, statistics, and machine learning on non-Euclidean manifolds
+  * Computation, statistics, and machine learning on manifolds
 * [**Giotto TDA**](https://giotto-ai.github.io/gtda-docs/0.5.1/library.html)
   * Topological Data Analysis
 * [**E3NN**](https://github.com/e3nn/e3nn)
@@ -204,8 +228,14 @@ This is a collaborative work-in-progress. Please contribute via PRs!
   * Geometric machine learning and Lie analysis tools for PyTorch
 * [**pyRiemann**](https://github.com/pyRiemann/pyRiemann)
   * Machine learning for multivariate data through the Riemannian geometry of positive definite matrices
-
-
+* [**Pymanopt**](https://pymanopt.org/)
+  * Optimization on manifolds
+* [**Geoopt**](https://geoopt.readthedocs.io/en/latest/)
+  * Riemannian Adaptive Optimization Methods with pytorch optim
+* [**TopoX**](https://pyt-team.github.io/)
+  * Computing, embedding, and deep learning on discrete topological domains
+* [**TopoBench**](https://github.com/geometric-intelligence/TopoBench)
+  * Benchmarking topological deep learning
 
 <br /><br />
 
