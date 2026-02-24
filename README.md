@@ -20,6 +20,7 @@ This is a collaborative work-in-progress. Please contribute via PRs!
   - [Abstract Algebra + Group Theory](#grouptheory)
   - [Differential Geometry + Lie Groups](#diffgeo)
   - [Information Geometry](#infogeo)
+  - [Dynamics](#dynamics)
   - [Topology](#topology)
   - [Geometric Machine Learning](#gdl)
   - [Computational Neuroscience](#neuro-resources)
@@ -45,11 +46,17 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Aspects of Harmonic Analysis and Representation Theory** (2021) <br /> *Gallier & Quaintance*](https://drive.google.com/file/d/1eK8B1UpTJTnCXV6DL4-blDaKo6XQk28r/view?usp=sharing)
 * [**Basic concepts of representation theory** (2013) <br /> *Amritanshu Prasad*](https://cel.archives-ouvertes.fr/cel-00963677/document)
 * [**Representation Theory of Finite Groups** (2012) <br /> *Bemjamin Steinberg*](https://drive.google.com/file/d/1fe1qnVAkCHEY1hn9sOvcA6Ocww66fMmP/view?usp=sharing)
+* [**Group Theory in a Nutshell for Physicists** (2016) <br /> *Anthony Zee*](https://press.princeton.edu/books/hardcover/9780691162690/group-theory-in-a-nutshell-for-physicists?srsltid=AfmBOorWia8EVrePMeeWPrGxmrjvr7oUqoQzmOSbqTw38izVMFnNEYdV)
+* [**Functions of Matrices: Theory and Computation** (2008) <br /> *Nicholas J. Higham*](https://epubs.siam.org/doi/10.1137/1.9780898717778)
+* [**Convex Optimization** (2004) <br /> *Stephen Boyd, Lieven Vandenberghe*](https://www.amazon.com/gp/product/0521833787/ref=ox_sc_saved_image_8?smid=ATVPDKIKX0DER&psc=1)
+
+
+
 
 #### Courses, Lectures, and Videos
 * [**Essence of Group Theory**  **Beginner-Friendly* <br /> *Mathemaniac*](https://youtube.com/playlist?list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO)
-* [**Abstract Algebra** **Beginner-Friendly* <br /> *Socratica*](https://youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
-* [**Euler's formula with introductory group theory** **Intuition Building* <br /> *3blue1brown*](https://www.youtube.com/watch?v=mvmuCPvRoWQ&t=648s&ab_channel=3Blue1Brown)
+* [**Abstract Algebra** *Beginner-Friendly* <br /> *Socratica*](https://youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+* [**Euler's formula with introductory group theory** *Intuition Building* <br /> *3blue1brown*](https://www.youtube.com/watch?v=mvmuCPvRoWQ&t=648s&ab_channel=3Blue1Brown)
 * [**What is a Tensor?** <br /> *XylyXylyX*](https://youtube.com/playlist?list=PLRlVmXqzHjUQARA37r4Qw3SHPqVXgqO6c)
 * [**Representation Theory** <br /> *Math Doctor Bob*](https://youtube.com/playlist?list=PL57457844458A5A1F)
 * [**Category Theory for AI** <br /> *Online Course, October 2022*](https://cats.for.ai/)
@@ -71,12 +78,15 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Riemannian manifolds, an introduction to curvature** (2000) <br /> *John M. Lee*](https://link.springer.com/book/10.1007/b98852)
 * [**A Comprehensive Introduction to Differential Geometry** (1999) <br /> *Michael Spivak*](https://dl.icdst.org/pdfs/files3/e9091aa2ddcfcbf04faeb46c68d7dc49.pdf)
 * [**Riemannian Geometry** (2001) <br /> *Mikhail Postnikov*](https://link.springer.com/book/10.1007/978-3-662-04433-9)
+* [**Alice’s Adventures in a differentiable wonderland: A primer on designing neural networks** (2024) <br /> *Simone Scardapane*](https://www.sscardapane.it/alice-book/)
+* [**Introduction to Riemannian Manifolds** (2018) <br /> *John M. Lee*](https://link.springer.com/book/10.1007/978-3-319-91755-9)
+
 
 
 #### Courses, Lectures, and Videos
-* [**Geometry and Topology**](https://youtu.be/kp1k90zNVLc) and [**Symmetry**](https://youtu.be/yCxacFBLHIY) **Beginner-Friendly* <br /> *Sean Carroll*
+* [**Geometry and Topology**](https://youtu.be/kp1k90zNVLc) and [**Symmetry**](https://youtu.be/yCxacFBLHIY) *Beginner-Friendly* <br /> *Sean Carroll*
 * [**Differential Geometry for Computer Science** <br /> *Justin Solomon*](https://youtube.com/playlist?list=PLQ3UicqQtfNvPmZftPyQ-qK1wdXBxj86W)
-* [**Discrete Differential Geometry** <br /> CMU](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)
+* [**Discrete Differential Geometry** <br /> *CMU*](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)
 * [**What is a Manifold?** <br /> *XylyXylyX*](https://youtube.com/playlist?list=PLRlVmXqzHjUQHEx63ZFxV-0Ortgf-rpJo)
 * [**Manifolds** <br /> *Robert Davie*](https://youtube.com/playlist?list=PLeFwDGOexoe8cjplxwQFMvGLSxbOTUyLv)
 * [**Lie Groups and Lie Algebras** <br /> *XylyXylyX*](https://youtube.com/playlist?list=PLRlVmXqzHjURZO0fviJuyikvKlGS6rXrb)
@@ -109,6 +119,19 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 <br />
 
+<a name="dynamics" />
+
+### Dynamics
+
+#### Textbooks and Notes
+* [**Nonlinear Dynamics And Chaos: With Applications To Physics, Biology, Chemistry, And Engineering (Studies in Nonlinearity)** (2000) <br /> *Steven H. Strogatza*](https://www.amazon.com/Nonlinear-Dynamics-Chaos-Applications-Nonlinearity/dp/0738204536)
+* [**Nonlinear Oscillations, Dynamical Systems, and Bifurcations of Vector Fields** (1983) <br /> *John Guckenheimer, Philip Holmes*](https://link.springer.com/book/10.1007/978-1-4612-1140-2)
+* [**Introduction to the Modern Theory of Dynamical Systems** (2012) <br /> *Anatole Katok, Boris Hasselblatt*](https://www.cambridge.org/core/books/introduction-to-the-modern-theory-of-dynamical-systems/2D6CF65297378C2704A4A56D0F77B503)
+
+<br />
+
+<br />
+
 <a name="topo" />
 
 
@@ -116,19 +139,25 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 #### Courses, Lectures, and Videos
 
-* [**Computational Algebraic Topology** <br /> Vidit Nanda](https://youtube.com/playlist?list=PLnLAqsCN_2ke8_EUd_KoJsLkPO0BKrrc6)
+* [**Computational Algebraic Topology** <br /> *Vidit Nanda*](https://youtube.com/playlist?list=PLnLAqsCN_2ke8_EUd_KoJsLkPO0BKrrc6)
 
-* [**Foundations of Topological Data Analysis** <br /> Robert Ghrist and Vidit Nanda](https://www.youtube.com/playlist?list=PL8erL0pXF3JaR4no7ivppQ5zwhq2QnzzQ)
+* [**Foundations of Topological Data Analysis** <br /> *Robert Ghrist and Vidit Nanda*](https://www.youtube.com/playlist?list=PL8erL0pXF3JaR4no7ivppQ5zwhq2QnzzQ)
 
-* [**Topological Data Analysis for Machine Learning** <br /> Bastian Rieck](https://www.youtube.com/playlist?list=PLjFHG9gPsecYteKmbVbPhjiz2jHRtKT20)
+* [**Topological Data Analysis for Machine Learning** <br /> *Bastian Rieck*](https://www.youtube.com/playlist?list=PLjFHG9gPsecYteKmbVbPhjiz2jHRtKT20)
 
 #### Textbooks, Notes
 * [**Elementary Applied Topology** <br /> Robert Ghrist](https://www2.math.upenn.edu/~ghrist/notes.html)
-* [**A Survey of Topological Machine Learning Methods** (2021) <br /> Felix Hensel, Michael Moor, Bastian Rieck](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2021.681108/full)
-* [**Topological Deep Learning: Graphs, Complexes, Sheaves** (2022) <br /> Cristian Bodnar](https://www.repository.cam.ac.uk/items/06b0b8e5-57d1-4120-8fad-643ce4d40eda)
-* [**Topological Deep Learning: Going Beyond Graph Data** (2023) <br /> Mustafa Hajij et al.](https://arxiv.org/abs/2206.00606)
-* [**Architectures of Topological Deep Learning: A Survey of Message-Passing Topological Neural Networks** (2023) <br /> Mathilde Papillon et al.](https://arxiv.org/abs/2304.10031)
-<br />
+* [**A Survey of Topological Machine Learning Methods** (2021) <br /> *Felix Hensel, Michael Moor, Bastian Rieck*](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2021.681108/full)
+* [**Topological Deep Learning: Graphs, Complexes, Sheaves** (2022) <br /> *Cristian Bodnar*](https://www.repository.cam.ac.uk/items/06b0b8e5-57d1-4120-8fad-643ce4d40eda)
+* [**Topological Deep Learning: Going Beyond Graph Data** (2023) <br /> *Mustafa Hajij et al.*](https://arxiv.org/abs/2206.00606)
+* [**Architectures of Topological Deep Learning: A Survey of Message-Passing Topological Neural Networks** (2023) <br /> *Mathilde Papillon et al.*](https://arxiv.org/abs/2304.10031)
+* [**Introduction to Topological Manifolds** (2011) <br /> *John M. Lee*](https://arxiv.org/abs/2206.00606)
+* [**Algebraic Topology** (2001) <br /> *Allen Hatcher*](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf)
+* [**Topology** (1974) <br /> *James Munkres*](https://math.mit.edu/~hrm/palestine/munkres-topology.pdf)
+* [**Graph Theory** (2008) <br /> *Adrian Bondy, U.S.R. Murty*](https://link.springer.com/book/9781846289699)
+
+
+
 
 
 
@@ -141,14 +170,18 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 
 #### Textbooks and Surveys
 
-* [**Group Invariance Applications in Statistics** (1989) <br /> Morris Eaton](https://www.jstor.org/stable/4153172)
+* [**Group Invariance Applications in Statistics** (1989) <br /> *Morris Eaton*](https://www.jstor.org/stable/4153172)
 * [**Group Theoretical Methods in Machine Learning** (2008) <br /> *Risi Kondor, PhD Thesis*](http://www.cs.columbia.edu/~jebara/papers/thesisKondor.pdf)
 * [**Pattern Theory: The Stochastic Analysis of Real-World Signals** (2010) <br /> *David Mumford and Agnès Desolneux*](https://www.routledge.com/Pattern-Theory-The-Stochastic-Analysis-of-Real-World-Signals/Mumford-Desolneux/p/book/9781568815794)
-* [**Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges** (2021) <br /> _Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković_](https://arxiv.org/abs/2104.13478)
+* [**Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges** (2021) <br /> _*Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković*](https://arxiv.org/abs/2104.13478)
 * [**Equivariant Convolutional Networks** (2021) <br /> *Taco Cohen, PhD Thesis*](https://pure.uva.nl/ws/files/60770359/Thesis.pdf)
 * [**An Introduction to Optimization on Smooth Manifolds** (2022) <br /> *Nicolas Boumal*](https://sma.epfl.ch/~nboumal/book/IntroOptimManifolds_Boumal_2022.pdf)
 * [**Beyond Euclid: An Illustrated Guide to Modern Machine Learning with Geometric, Topological, and Algebraic Structures** (2025) <br /> *Mathilde Papillon et al.*](https://arxiv.org/abs/2407.09468)
 * [**Symmetry in Neural Network Parameter Spaces** (2025) <br /> *Bo Zhao, Robin Walters, Rose Yu*](https://arxiv.org/abs/2506.13018)
+* [**Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control** (2022) <br /> *Brunton and Katz*](https://arxiv.org/abs/2506.13018](https://databookuw.com))
+* [**Introduction to Smooth Manifolds** (2012) <br /> *John M. Lee*](https://link.springer.com/book/10.1007/978-1-4419-7940-7)
+
+
 
 #### Courses, Lectures, and Videos
 
@@ -176,6 +209,8 @@ This is a collaborative work-in-progress. Please contribute via PRs!
 * [**Dynamical Systems in Neuroscience: The Geometry of Excitability and Bursting** (2006) <br /> *Eugene M. Izhikevich*](https://drive.google.com/file/d/1CXQCPl6MN8XSmoyo6J0TbdlWhBmaib62/view?usp=sharing)
 * [**Neuronal Dynamics: From single neurons to networks and models of cognition** (2014) <br /> *Wulfram Gerstner, Werner M. Kistler, Richard Naud and Liam Paninsky*](https://neuronaldynamics.epfl.ch/)
 * [**Principles of Neural Design** (2015) <br /> *Peter Sterling & Simon Laughlin*](https://drive.google.com/file/d/1cskdlUJBjAY5wH7GeZa2IxT9iSXZ_3_0/view?usp=sharing)
+* [**Principles of Neural Science, Sixth Edition** (2021) <br /> *Eric R. Kandel, John D. Koester, Sarah H. Mack, Steven A. Siegelbaum*](https://www.amazon.com/Principles-Neural-Science-Sixth-Kandel/dp/1259642232)
+
 
 
 #### Books - General Audience
