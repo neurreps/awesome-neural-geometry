@@ -273,6 +273,8 @@ This is a collaborative work-in-progress. Please contribute via PRs!
   * Computing, embedding, and deep learning on discrete topological domains
 * [**TopoBench**](https://github.com/geometric-intelligence/TopoBench)
   * Benchmarking topological deep learning
+* [**Genesis 2: Cascade MoE**](https://github.com/larionovavi-stack/genesis2-cascade-moe)
+  * Novel architecture using shared neuron pool with hash-based embedding in neuron concept space. Cascade activation via reverse index explores geometric relationships between expert routes.
 
 <br /><br />
 
